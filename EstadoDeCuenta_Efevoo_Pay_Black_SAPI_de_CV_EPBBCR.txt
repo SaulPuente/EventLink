@@ -1,142 +1,522 @@
-01EPBBCR    20231004000001
-02Jose Flavio                   Lopez                         Martinez                                                                                                                                                                  San Pedro                                                                       52105
-03WME200728TM1 20231024 000050000 000280461-001000000 008043303 000000000 000000000 000000000 007762842 000280461 0002804614500500090001000464598******6342004000000 0037195396  2023082620230826
-0401/10/2023COMPRA TH RICARDO MARGAIN                                                                                            000000000 000011400
-0401/10/2023COMPRA OXXO GAS LAS TORRES                                                                                           000000000 000060521
-0401/10/2023COMPRA SUPER SALADS                                                                                                  000000000 000043700
-0404/09/2023PAGO A TARJETA                                                                                                       000000000-001000000
-0404/09/2023PAGO A TARJETA                                                                                                       000000000-003499300
-0404/09/2023COMPRA BENAVIDES 140849 M HIM                                                                                        000000000 000087600
-0405/09/2023COMPRA CINEPOLIS DULCERIA                                                                                            000000000 000013800
-0405/09/2023DEVOLUCIÓN PAGO A TARJETA                                                                                            000000000 003499300
-0406/09/2023COMPRA SERV MED CHOPO S PEDRO                                                                                        000000000 000090300
-0407/09/2023COMPRA KAMPAI I                                                                                                      000000000 000180435
-0409/09/2023COMPRA STR*UBER TRIP                                                                                                 000000000 000014487
-0409/09/2023COMPRA MERCADO PAGO 1                                                                                                000000000 000038000
-0409/09/2023COMPRA OMMANI                                                                                                        000000000 000075325
-0409/09/2023COMPRA COSTCO MONTERREY                                                                                              000000000 000785268
-0410/09/2023COMPRA TH RICARDO MARGAIN                                                                                            000000000 000013300
-0412/09/2023COMPRA OXXO MONTES ROVALLOSOS                                                                                        000000000 000013800
-0415/09/2023COMPRA STR*UBER EATS                                                                                                 000000000 000058000
-0416/09/2023COMPRA ESTACINAM PARQUE ARBOL                                                                                        000000000 000003500
-0416/09/2023COMPRA NETPAY *CARA DE VACA                                                                                          000000000 000227585
-0416/09/2023COMPRA OXXO MONTES ROVALLOSOS                                                                                        000000000 000009700
-0417/09/2023COMPRA 1083 MONTERREY2 ELECZI                                                                                        000000000 000048991
-0417/09/2023COMPRA 1083 MONTERREY2 ELECZI                                                                                        000000000 000215980
-0417/09/2023COMPRA STRIPE*UBER EATS                                                                                              000000000 000052500
-0420/09/2023COMPRA OXXO MONTES ROVALLOSOS                                                                                        000000000 000007500
-0420/09/2023COMPRA STR*UBER EATS                                                                                                 000000000 000030200
-0421/09/2023COMPRA STRIPE*UBER EATS                                                                                              000000000 000018700
-0422/09/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000008000
-0422/09/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000007000
-0422/09/2023COMPRA STRIPE*UBER EATS                                                                                              000000000 000048000
-0422/09/2023COMPRA REST AUTENTICO BOUT 5                                                                                         000000000 000133400
-0423/09/2023COMPRA MERPAGO*MER PAGO 2                                                                                            000000000 000119400
-0424/09/2023COMPRA GASO IRKON CONCESIONES                                                                                        000000000 000108788
-0424/09/2023COMPRA RINCON SAN MIGUEL                                                                                             000000000 000027715
-0424/09/2023COMPRA EL ANDARIEGO                                                                                                  000000000 000069500
-0424/09/2023COMPRA OXXO PARRAS CENTRO                                                                                            000000000 000024050
-0425/09/2023COMPRA STRIPE*UBER EATS                                                                                              000000000 000053000
-0425/09/2023COMPRA STRIPE*UBER EATS                                                                                              000000000 000047200
-0426/08/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000000100
-0426/08/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000001000
-0426/08/2023RETIRO EN ATM                                                                                                        000000000 000023480
-0426/08/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000070440
-0426/08/2023IVA DE COMISIÓN                                                                                                      000000000 000011270
-0426/08/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000012000
-0426/08/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000012000
-0426/08/2023COMPRA CAFE LAUREL                                                                                                   000000000 000133400
-0426/08/2023COMPRA OXXO MONTES ROVALLOSOS                                                                                        000000000 000004900
-0426/08/2023COMPRA HEB VALLE ORIENTE                                                                                             000000000 000375849
-0426/08/2023COMPRA HEB VALLE ORIENTE                                                                                             000000000 000002750
-0426/08/2023COMPRA OXXO GAS LAS TORRES                                                                                           000000000 000165088
-0426/08/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000012000
-0426/08/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000006000
-0426/08/2023COMPRA OXXO SAN ANGEL                                                                                                000000000 000011400
-0426/08/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000006000
-0426/08/2023COMPRA SENORA TANAKA REST                                                                                            000000000 000275425
-0426/08/2023COMPRA TH RICARDO MARGAIN                                                                                            000000000 000005200
-0426/08/2023COMPRA TH RICARDO MARGAIN                                                                                            000000000 000005200
-0426/08/2023COMPRA F AHORRO MTAI R MARGAI                                                                                        000000000 000052501
-0426/08/2023COMPRA LA PURISIMA 2                                                                                                 000000000 000027500
-0426/08/2023COMPRA OXXO SAN ANGEL                                                                                                000000000 000045200
-0426/08/2023COMPRA CINEPOLIS DULCERIA                                                                                            000000000 000053900
-0426/08/2023COMPRA PETCO VASCONCELOS                                                                                             000000000 000126045
-0426/08/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000012000
-0426/09/2023COMPRA OXXO MONTES ROVALLOSOS                                                                                        000000000 000006800
-0427/09/2023RETIRO EN ATM                                                                                                        000000000 000013480
-0427/09/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000040440
-0427/09/2023IVA DE COMISIÓN                                                                                                      000000000 000006470
-0427/09/2023RETIRO EN ATM                                                                                                        000000000 000013480
-0427/09/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000040440
-0427/09/2023IVA DE COMISIÓN                                                                                                      000000000 000006470
-0428/09/2023COMPRA CONEKTA*HABITOS NUTRI                                                                                         000000000 000109000
-0429/09/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000026000
-0429/09/2023PAGO A TARJETA                                                                                                       000000000-002000000
-0429/09/2023PAGO A TARJETA                                                                                                       000000000-001263542
-0430/09/2023COMPRA SORIANA 576 VALLE OTE                                                                                         000000000 000043330
-0430/09/2023COMPRA STR*UBER EATS                                                                                                 000000000 000040800
-05075
-02Mauricio                      Hernández                                                                                                                                                                                               San Pedro                                                                       06700
-03WME200728TM1 20231024 000056073 000560730 000000000 000560730 000000000 000000000 000000000 000000000 000560730 0005607304460040989200818464598******4223001500000 00093927010 2023090220230902
-0402/09/2023COMPRA EFEVOOP*MAURICIO HERNA                                                                                        000000000 000000500
-0402/09/2023COMPRA EFEVOOP*MAURICIO HERNA                                                                                        000000000 000001000
-0402/09/2023COMPRA OXXO PEDREGAL                                                                                                 000000000 000018050
-0402/09/2023RETIRO EN ATM                                                                                                        000000000 000023422
-0402/09/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000001405
-0402/09/2023IVA DE COMISIÓN                                                                                                      000000000 000000225
-0402/09/2023COMPRA EFEVOOP*MAURICIO HERNA                                                                                        000000000 000000500
-0402/09/2023COMPRA COM RAP DAY LIGHT                                                                                             000000000 000014500
-0402/09/2023RETIRO EN ATM                                                                                                        000000000 000023422
-0402/09/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000001405
-0402/09/2023IVA DE COMISIÓN                                                                                                      000000000 000000225
-0402/09/2023RETIRO EN ATM                                                                                                        000000000 000203422
-0402/09/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000012205
-0402/09/2023IVA DE COMISIÓN                                                                                                      000000000 000001953
-0402/09/2023COMPRA MERPAGO*TAQUERIAARCOS                                                                                         000000000 000044500
-0402/09/2023COMPRA EFEVOOP*MAURICIO HERNA                                                                                        000000000 000000500
-0402/09/2023COMPRA KFC 386 PIN BOULEVARES                                                                                        000000000 000021800
-0402/09/2023COMPRA ZTL*CCCOMEDOR                                                                                                 000000000 000007500
-0427/09/2023COMPRA STARBUCKS T VIRREYES                                                                                          000000000 000018600
-0427/09/2023RETIRO EN ATM                                                                                                        000000000 000033422
-0427/09/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000002005
-0427/09/2023IVA DE COMISIÓN                                                                                                      000000000 000000321
-0427/09/2023COMPRA COM RAP DAY LIGHT                                                                                             000000000 000016000
-0427/09/2023RETIRO EN ATM                                                                                                        000000000 000033422
-0427/09/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000002005
-0427/09/2023IVA DE COMISIÓN                                                                                                      000000000 000000321
-0430/09/2023COMPRA FARM DE DIOS                                                                                                  000000000 000035400
-0430/09/2023COMPRA F AHORRO MXLA LA ABEJA                                                                                        000000000 000042700
-05028
-02Luis Xavier                   Chapa                         Gonzalez                                                                                                                                                                  San Pedro                                                                       52105
-03WME200728TM1 20231024 000000000 000000000-000757980 001609300 000000000 000000000 000000000 001609300 000000000 0000000004460040989200818464598******4231002000000 0020000000  2023090220230902
-0402/09/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000012000
-0402/09/2023COMPRA OXXO LAS TORRES                                                                                               000000000 000042640
-0402/09/2023COMPRA 7 ELEVEN LAS BOQUILLAS                                                                                        000000000 000012050
-0404/10/2023PAGO A TARJETA                                                                                                       000000000-000851320
-0406/09/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000066690
-0407/09/2023COMPRA EFEVOOP*BRITISH PUB                                                                                           000000000 000624600
-0408/09/2023PAGO A TARJETA                                                                                                       000000000-000757980
-0413/09/2023COMPRA EFEVOOP*BRITISH PUB                                                                                           000000000 000205560
-0414/09/2023COMPRA OXXO STA ENGRACIA                                                                                             000000000 000033500
-0414/09/2023COMPRA OXXO STA ENGRACIA                                                                                             000000000 000004900
-0418/09/2023COMPRA EFEVOOP*BRITISH PUB                                                                                           000000000 000606360
-0420/09/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000001000
-05012
-02Luis                          Othon                                                                                                                                                                                                   San Pedro                                                                            
-03WME200728TM1 20231024 000012738 000019939 000017439 000002500 000000000 000000000 000000000 000017461 000019939 0000199394460040989200818464598******4209001019048 0009991092  2023090220230902
-0402/09/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000002000
-0402/09/2023COMPRA EFEVOOP*GNT CAPITAL                                                                                           000000000 000000500
-0421/09/2023Cancelación GASTOS DE COBRANZA                                                                                       000000000-000015000
-0421/09/2023Cancelación IVA DE GASTOS DE COBRANZA                                                                                000000000-000002400
-0421/09/2023GASTOS DE COBRANZA                                                                                                   000000000 000015000
-0421/09/2023IVA DE GASTOS DE COBRANZA                                                                                            000000000 000002400
-0421/09/2023GASTOS DE COBRANZA                                                                                                   000000000 000015000
-0421/09/2023IVA DE GASTOS DE COBRANZA                                                                                            000000000 000002400
-0426/09/2023PAGO A TARJETA                                                                                                       000000000-000000004
-0426/09/2023PAGO A TARJETA                                                                                                       000000000-000000055
-0427/09/2023PAGO A TARJETA                                                                                                       000000000-000000002
-05011
-02Luis Xavier                   Chapa                         Gonzalez                                                                                                                                                                  San Pedro                                                                            
-03WME200728TM1 20231024 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460180989203618464598******1172005000000 0050000000  2023051220230512
+01EPBBCR    20231128000032
+02JESUS ISRAEL                  FLORES                        GLORIA                                                                                                                                                                    San Pedro                                                                            
+03WME200728TM1 20231218 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******3238000500000 0005000000  20231029202310292D8DA0C90B08479385F3C827E6D8F297                  
 05000
+02Jesus                         Flores                        GLORIA                                                                                                                                                                    San Pedro                                                                            
+03WME200728TM1 20231218 000016541 000134032 000329208 000143672 000000000 000012717 000002035 000400000 000134032 0001340324460038489200768464598******8048000500000 0003659689  2023102920231029DEAC6AB85A024916ADE6B89315F73563                  
+0414/11/2023COMPRA GASOL ESTACION GARCIA                                                                                         000000000 000050000
+0415/11/2023COMPRA CF SAN JUAN LINCOLN I                                                                                         000000000 000026814
+0417/11/2023GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/11/2023IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+0421/11/2023PAGO A TARJETA                                                                                                       000000000-000400000
+0429/10/2023COMPRA BOUT 1318 NLE CC PATIO                                                                                        000000000 000033680
+0431/10/2023COMPRA MTA GARCIA                                                                                                    000000000 000033178
+05007
+02Carlos                        Kalifa                        Ruibal                                                                                                                                                                    San Pedro                                                                            
+03WME200728TM1 20231218 000399486 003994860 000000000 004298957 000000000 000000000 000000000 000304097 003994860 0039948604460038489200768464598******4617004000000 00000514010 2023102920231029678AAD7D3CFB447682237A7CC020D11F                  
+0402/11/2023DEVOLUCIÓN PAGO A TARJETA                                                                                            000000000 002332000
+0406/11/2023COMPRA ZTL*FANSHOP                                                                                                   000000000 000116000
+0416/11/2023COMPRA SUPER MODE VALLE PTE                                                                                          000000000 000091280
+0427/11/2023COMPRA SUPER MODE VASCONCELOS                                                                                        000000000 000185011
+0429/10/2023COMPRA SUPER MODE GM                                                                                                 000000000 000304097
+0429/10/2023COMPRA SUPER MODE GM                                                                                                 000000000 000304097
+0429/10/2023Cancelación COMPRA                                                                                                   000000000-000304097
+0429/10/2023COMPRA HEB VALLE ORIENTE                                                                                             000000000 000030030
+0429/10/2023COMPRA HEB VALLE ORIENTE                                                                                             000000000 000004950
+0429/10/2023COMPRA LA CASA ENCANTADA                                                                                             000000000 000039900
+0429/10/2023COMPRA HEB CHIPINQUE                                                                                                 000000000 000038220
+0430/10/2023COMPRA COSTCO MONTERREY                                                                                              000000000 000853372
+05012
+02Hector de Jesus               Rivera                        Ochoa                                                                                                                                                                     San Pedro                                                                            
+03WME200728TM1 20231218 000096009 000960091 000207962 005856851 000000000 000000000 000000000 005104722 000960091 0009600914460038489200768464598******2599005000000 00403990910 202310292023102977EC4F9BA6D244959AED59A40446F3A4                  
+0401/11/2023COMPRA CONEKTA*MONEYPOOL                                                                                             000000000 000207800
+0401/11/2023COMPRA BAR                                                                                                           000000000 000009700
+0401/11/2023COMPRA NETPAY *CEBICHERIA MAG                                                                                        000000000 000020000
+0403/11/2023COMPRA SYMA AUTOSHAMPOO 4                                                                                            000000000 000011000
+0408/11/2023COMPRA CFE CONTIGO MU                                                                                                000000000 000032400
+0414/11/2023COMPRA WAL MART VALLE OTE                                                                                            000000000 000194028
+0415/11/2023PAGO A TARJETA                                                                                                       000000000-000207962
+0418/11/2023COMPRA PAN BENELL                                                                                                    000000000 000060605
+0418/11/2023COMPRA LIVERPOOL VALLE OTE                                                                                           000000000 000181090
+0418/11/2023COMPRA GALERIAS VALLE ORIENTE                                                                                        000000000 000002500
+0420/11/2023COMPRA MERPAGO*MER PAGO 2                                                                                            000000000 001199800
+0421/11/2023COMPRA HEB VALLE ORIENTE                                                                                             000000000 000014540
+0422/11/2023COMPRA TULOTERO MEXICO                                                                                               000000000 000025000
+0422/11/2023RETIRO EN ATM                                                                                                        000000000 000602320
+0422/11/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000036139
+0422/11/2023IVA DE COMISIÓN                                                                                                      000000000 000005782
+0422/11/2023COMPRA MUMUSO PUNTO VALLE                                                                                            000000000 000035960
+0422/11/2023COMPRA OSHKOSH CARTER S PUNTO                                                                                        000000000 000196580
+0422/11/2023PAGO A TARJETA                                                                                                       000000000-001199800
+0422/11/2023PAGO A TARJETA                                                                                                       000000000-003449560
+0423/11/2023COMPRA FARM 4195                                                                                                     000000000 000008700
+0423/11/2023COMPRA NETPAY *LA CASTELLANA                                                                                         000000000 000111300
+0425/11/2023COMPRA INNOVA SPORT VALLE ORI                                                                                        000000000 000050000
+0425/11/2023COMPRA ZARA VALLE OTE                                                                                                000000000 000149800
+0425/11/2023COMPRA KFC VALLE OTE                                                                                                 000000000 000031900
+0425/11/2023COMPRA GALERIAS VALLE ORIENTE                                                                                        000000000 000002500
+0425/11/2023COMPRA 7 ELEVEN CMINO MIRAD                                                                                          000000000 000012200
+0425/11/2023COMPRA 7 ELEVEN CMINO MIRAD                                                                                          000000000 000023900
+0426/11/2023COMPRA ARBOLEDA                                                                                                      000000000 000077600
+0426/11/2023COMPRA CITY MARKET MTY 419                                                                                           000000000 000249750
+0429/10/2023COMPRA FRESH MARKET SPATRICIO                                                                                        000000000 000247400
+0429/10/2023COMPRA FRESH MARKET SPATRICIO                                                                                        000000000 000247400
+0429/10/2023Cancelación COMPRA                                                                                                   000000000-000247400
+0429/10/2023COMPRA F AHORRO MTSE SIENNA                                                                                          000000000 000018700
+0429/10/2023COMPRA COSTCO MONTERREY                                                                                              000000000 000364917
+0429/10/2023COMPRA AUTOZONE 7261                                                                                                 000000000 000021900
+0429/10/2023COMPRA 670 MCDONALDS GOMEZ MO                                                                                        000000000 000021000
+0429/10/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000010000
+0429/10/2023COMPRA PALMAS                                                                                                        000000000 000015200
+0429/10/2023COMPRA PALMAS                                                                                                        000000000 000002400
+0429/10/2023COMPRA PALMAS                                                                                                        000000000 000002000
+0429/10/2023COMPRA VELPAY*BUTCHERS BGR                                                                                           000000000 000345000
+0429/10/2023COMPRA 7 ELEVEN PEDRO RMZ Y F                                                                                        000000000 000021650
+0429/10/2023COMPRA OXXOLOMAS DE MONTEC                                                                                           000000000 000005950
+0429/10/2023COMPRA HOME DEPOT TORRES                                                                                             000000000 000216015
+0429/10/2023COMPRA NETPAY *PETRUM LINCOLN                                                                                        000000000 000150011
+0429/10/2023COMPRA COSTCO MONTERREY III                                                                                          000000000 000127664
+0429/10/2023COMPRA HEB MTY EL URO                                                                                                000000000 000032950
+0430/10/2023COMPRA MP ECOMMERCE                                                                                                  000000000 000277100
+0431/10/2023COMPRA NETPAY *FOGODECHAOMTY                                                                                         000000000 000100000
+0431/10/2023COMPRA HOME DEPOT TORRES                                                                                             000000000 000076700
+05051
+02Ana Leticia                   Corona                                                                                                                                                                                                  San Pedro                                                                            
+03WME200728TM1 20231218 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******9577006000000 0060000000  20231029202310292F4E1016895341A8B31F46D56BD531B5                  
+05000
+02Ana Leticia                   Corona                        Cavazos                                                                                                                                                                   San Pedro                                                                            
+03WME200728TM1 20231218 000414829 004148294 000000000 005370536 000000000 000000000 000000000 001222242 004148294 0041482944460038489200768464598******2577006000000 00185170610 20231029202310292EA3A328E29944C5A15EA9B8311FC96F                  
+0401/11/2023COMPRA COSTCO MONTERREY                                                                                              000000000 000200924
+0401/11/2023PAGO A TARJETA                                                                                                       000000000-001222242
+0402/11/2023COMPRA HEB VALLE ORIENTE                                                                                             000000000 000334200
+0403/11/2023COMPRA SORIANA54 SAN AGUSTIN                                                                                         000000000 000029876
+0407/11/2023COMPRA SUPER MODE GM                                                                                                 000000000 000056250
+0408/11/2023COMPRA TABAQ KRYPT VAPEST SP2                                                                                        000000000 000060000
+0409/11/2023COMPRA HEB VALLE ORIENTE                                                                                             000000000 000568800
+0409/11/2023COMPRA HOME DEPOT GARZA GARCI                                                                                        000000000 000019400
+0409/11/2023COMPRA OXXO MONTES ROVALLOSOS                                                                                        000000000 000044400
+0410/11/2023COMPRA SUPER MODE GM                                                                                                 000000000 000076400
+0411/11/2023COMPRA CLIP MX*VICTOR ISAI                                                                                           000000000 000060000
+0413/11/2023COMPRA OXXO GOMEZ MORIN                                                                                              000000000 000008400
+0413/11/2023COMPRA SUPER MODE GM                                                                                                 000000000 000370880
+0413/11/2023COMPRA VIGAR CARNES VALLE                                                                                            000000000 000183600
+0413/11/2023COMPRA NETPAY *LA CASTELLANA                                                                                         000000000 000183600
+0413/11/2023COMPRA OXXO MONTES ROVALLOSOS                                                                                        000000000 000004900
+0414/11/2023COMPRA CLIP MX*CERRAJERIA DEL                                                                                        000000000 000070000
+0416/11/2023COMPRA GRILL AND MORE                                                                                                000000000 000017500
+0416/11/2023COMPRA HEB VALLE ORIENTE                                                                                             000000000 000518576
+0417/11/2023COMPRA SUPERCENTER GOMEZ MORI                                                                                        000000000 000061600
+0417/11/2023COMPRA SUPERCENTER GOMEZ MORI                                                                                        000000000 000015300
+0421/11/2023COMPRA TABAQ KRYPT VAPEST SP2                                                                                        000000000 000060000
+0421/11/2023COMPRA OFFICE DEPOT VASCONCE                                                                                         000000000 000055700
+0421/11/2023COMPRA PETCO VASCONCELOS                                                                                             000000000 000136500
+0421/11/2023COMPRA COSTCO MONTERREY                                                                                              000000000 000443917
+0421/11/2023COMPRA WAL MART VALLE OTE                                                                                            000000000 000038600
+0422/11/2023COMPRA BENAVIDES 140849 M HIM                                                                                        000000000 000206000
+0422/11/2023COMPRA HEB VALLE ORIENTE                                                                                             000000000 000248000
+0423/11/2023COMPRA SUPERCENTER GOMEZ MORI                                                                                        000000000 000056000
+0423/11/2023COMPRA HEB CHIPINQUE                                                                                                 000000000 000125895
+0424/11/2023COMPRA OXXO MONTES ROVALLOSOS                                                                                        000000000 000034000
+0427/11/2023COMPRA TABAQ KRYPT VAPEST SP2                                                                                        000000000 000060000
+0429/10/2023COMPRA HOME DEPOT GARZA GARCI                                                                                        000000000 000219000
+0429/10/2023COMPRA HOME DEPOT GARZA GARCI                                                                                        000000000 000009290
+0429/10/2023COMPRA GASOL SERV TUNEL LOMA                                                                                         000000000 000166024
+0429/10/2023COMPRA HEB VALLE ORIENTE                                                                                             000000000 000383042
+0429/10/2023COMPRA SUPER MODE GM                                                                                                 000000000 000032340
+0429/10/2023COMPRA RESPOSTERIA LASTDOT                                                                                           000000000 000101500
+0430/10/2023COMPRA HEB VALLE ORIENTE                                                                                             000000000 000045500
+0430/10/2023COMPRA COSTCO MONTERREY                                                                                              000000000 000054222
+0431/10/2023COMPRA SUPER MODE GM                                                                                                 000000000 000010400
+05041
+02Daniela                       Lopez                         Flores                                                                                                                                                                    San Pedro                                                                            
+03WME200728TM1 20231218 000260991 002609913 000939584 003997345 000000000 000000000 000000000 002327016 002609913 0026099134460038489200768464598******5105002700000 00009008710 20231029202310297D6D28878A124FFF80D92D91977EA1D8                  
+0401/11/2023COMPRA ORSAN D NTE                                                                                                   000000000 000100000
+0401/11/2023PAGO A TARJETA                                                                                                       000000000-002327016
+0403/11/2023COMPRA 1083 MONTERREY2 ELECZI                                                                                        000000000 000031996
+0403/11/2023COMPRA 1101 MTY BENITO JUAREZ                                                                                        000000000 000220970
+0403/11/2023COMPRA 1101 MTY BENITO JUAREZ                                                                                        000000000 000034996
+0403/11/2023COMPRA FANT MIGUEL MTY III                                                                                           000000000 000030900
+0403/11/2023COMPRA OFFICE DEPOT VASCONCE                                                                                         000000000 000140300
+0406/11/2023COMPRA HEB 2 COM E                                                                                                   000000000 000181044
+0406/11/2023COMPRA EFEVOOP*MONOCHROMA                                                                                            000000000 000062000
+0408/11/2023COMPRA FANT MIGUEL SAN JMO                                                                                           000000000 000003420
+0408/11/2023COMPRA EFEVOOP*MAKABAPARTY                                                                                           000000000 000082000
+0410/11/2023COMPRA ROSS STORES #1069                                                                                         USD        000005514 000096433
+0410/11/2023COMPRA TJ MAXX 1082                                                                                                  000000000 000089734
+0410/11/2023COMPRA FIVE BELOW 1154                                                                                           USD        000015339 000268260
+0410/11/2023COMPRA BIG LOTS #4736                                                                                            USD        000014176 000247921
+0410/11/2023COMPRA Nike McAllen 279                                                                                          USD        000014069 000246050
+0410/11/2023COMPRA PACSUN #0501                                                                                              USD        000005948 000105565
+0410/11/2023COMPRA LULULEMON LA PLAZA MAL                                                                                    USD        000004114 000073015
+0410/11/2023COMPRA VICTORIA'S SECRET 0625                                                                                    USD        000008212 000145747
+0411/11/2023COMPRA WALGREENS 2942                                                                                                000000000 000129711
+0413/11/2023COMPRA HEB 2 COM E                                                                                                   000000000 000192199
+0417/11/2023COMPRA 1083 MONTERREY2 ELECZI                                                                                        000000000 000083990
+0421/11/2023COMPRA 1055 MONTERREY 1 ELECZ                                                                                        000000000 000024997
+0421/11/2023COMPRA HEB 2 COM E                                                                                                   000000000 000118665
+0429/10/2023COMPRA 1101 MTY BENITO JUAREZ                                                                                        000000000 000014997
+0429/10/2023COMPRA 1055 MONTERREY 1 ELECZ                                                                                        000000000 000029997
+0429/10/2023COMPRA 6371 ESCOBEDO NL                                                                                              000000000 000023494
+0429/10/2023COMPRA 4224 SOLIDARIDAD                                                                                              000000000 000034997
+0429/10/2023COMPRA SUP SOLIDARIDAD                                                                                               000000000 000033988
+0429/10/2023RETIRO EN ATM                                                                                                        000000000 000903480
+0429/10/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000054209
+0429/10/2023IVA DE COMISIÓN                                                                                                      000000000 000008673
+0429/10/2023COMPRA NETPAY *BOWLER AURIGA6                                                                                        000000000 000143600
+0429/10/2023COMPRA 1055 MONTERREY 1 ELECZ                                                                                        000000000 000039997
+05034
+02Marcelo                       Garcia                                                                                                                                                                                                  San Pedro                                                                            
+03WME200728TM1 20231218 001040109 010401088 009567704 005467576 000000000 000347024 000055524 005036740 010401088 0104010884460038489200768464598******6640010000000-00040108810 2023102920231029A93CE76118EA4470A5B294AC6D7E244C                  
+0401/11/2023COMPRA CFE CONTIGO MU                                                                                                000000000 000084300
+0401/11/2023PAGO A TARJETA                                                                                                       000000000-005000000
+0402/11/2023COMPRA STARBUCKS CUMBRES                                                                                             000000000 000005000
+0402/11/2023COMPRA OXXO P DE LACORDILLERA                                                                                        000000000 000009200
+0402/11/2023COMPRA BET365 MX SEC                                                                                                 000000000 000200000
+0403/11/2023COMPRA EFEVOOP*BRITISH PUB                                                                                           000000000 000167280
+0403/11/2023COMPRA SRPAGO*STR TRAVEL                                                                                             000000000 000520530
+0403/11/2023COMPRA SRPAGO*STR TRAVEL                                                                                             000000000 000520530
+0403/11/2023COMPRA STRIPE*PLAYTOMIC IO B                                                                                         000000000 000026000
+0403/11/2023COMPRA GASOL COLINAS                                                                                                 000000000 000100000
+0403/11/2023RETIRO EN ATM                                                                                                        000000000 000903480
+0403/11/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000054209
+0403/11/2023IVA DE COMISIÓN                                                                                                      000000000 000008673
+0403/11/2023COMPRA BET365 MX SEC                                                                                                 000000000 000100000
+0403/11/2023COMPRA SUSHIROLLGALERIASMONTE                                                                                        000000000 000092460
+0404/11/2023COMPRA OXXO COLINAS                                                                                                  000000000 000053370
+0405/11/2023COMPRA CARNES RIBHAUS                                                                                                000000000 000052280
+0405/11/2023COMPRA BET365 MX SEC                                                                                                 000000000 000200000
+0405/11/2023COMPRA SORIANA133 SNJERONIMO                                                                                         000000000 000416900
+0405/11/2023COMPRA LOS SALADOS SAN JERONI                                                                                        000000000 000032000
+0406/11/2023COMPRA STRAVEL                                                                                                       000000000 000405834
+0406/11/2023COMPRA BET365 MX SEC                                                                                                 000000000 000500000
+0406/11/2023COMPRA BET365 MX SEC                                                                                                 000000000 000500000
+0407/11/2023COMPRA OXXO GAS LEONES                                                                                               000000000 000040000
+0407/11/2023COMPRA OXXOMETROPOLITAN MTY                                                                                          000000000 000006550
+0429/10/2023COMPRA FAR GUAD 1975                                                                                                 000000000 000036740
+0429/10/2023COMPRA FAR GUAD 1975                                                                                                 000000000 000036740
+0429/10/2023Cancelación COMPRA                                                                                                   000000000-000036740
+0429/10/2023COMPRA TACOS VILLA SANT V HER                                                                                        000000000 000026900
+0429/10/2023COMPRA HIDROCARBUROS SOLIDARI                                                                                        000000000 000065000
+0429/10/2023COMPRA PAN DE PAN MONTERREY                                                                                          000000000 000024500
+0429/10/2023COMPRA OXXO VISTA HERMOSA                                                                                            000000000 000010850
+0429/10/2023COMPRA BET365 MX SEC                                                                                                 000000000 000100000
+0429/10/2023COMPRA NAYAX1 *NAYAX CADENA C                                                                                        000000000 000018450
+0430/10/2023COMPRA LEONES                                                                                                        000000000 000070000
+0430/10/2023COMPRA OXXO STA ENGRACIA                                                                                             000000000 000013600
+0431/10/2023COMPRA BET365 MX SEC                                                                                                 000000000 000066200
+05037
+02Luis Xavier                   Chapa                         Gonzalez                                                                                                                                                                  San Pedro                                                                       52105
+03WME200728TM1 20231218 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******4231000000000 0000000000  20231029202310292E8230E720E24F7BACA1567F52E3BE32                  
+05000
+02Luis Xavier                   Chapa                         Gonzalez                                                                                                                                                                  San Pedro                                                                            
+03WME200728TM1 20231218 000353567 003535674 003019000 007495274 000000000 000000000 000000000 006978600 003535674 0035356744460038489200768464598******1172005000000 00146432610 2023102920231029D678F4282A20424C90D9E0CE98668BEC                  
+0401/11/2023PAGO A TARJETA                                                                                                       000000000-004978600
+0402/11/2023COMPRA BET365 MX SEC                                                                                                 000000000 000700000
+0403/11/2023COMPRA EFEVOOP*BRITISH PUB                                                                                           000000000 000167280
+0404/11/2023COMPRA TACOS VILLA D SANTIAGO                                                                                        000000000 000039500
+0404/11/2023COMPRA BET365 MX SEC                                                                                                 000000000 000750000
+0405/11/2023COMPRA EFEVOOP*BRITISH PUB                                                                                           000000000 000752760
+0416/11/2023COMPRA BET365 MX SEC                                                                                                 000000000 001000000
+0417/11/2023COMPRA ANIMAL                                                                                                        000000000 000300000
+0418/11/2023COMPRA EFEVOOP*BRITISH PUB                                                                                           000000000 000384900
+0419/11/2023COMPRA GNC TDA NAT 254                                                                                               000000000 000224383
+0419/11/2023COMPRA VINOTECA G MORIN II                                                                                           000000000 000163501
+0419/11/2023COMPRA OXXO STA ENGRACIA                                                                                             000000000 000043350
+0422/11/2023COMPRA EFEVOOP*BRITISH PUB                                                                                           000000000 000010000
+0424/11/2023COMPRA BET365 MX SEC                                                                                                 000000000 001000000
+0424/11/2023PAGO A TARJETA                                                                                                       000000000-002000000
+0429/10/2023COMPRA BET365 MX SEC                                                                                                 000000000 001000000
+0429/10/2023COMPRA EFEVOOP*BRITISH PUB                                                                                           000000000 000294600
+0429/10/2023COMPRA LA UNICA                                                                                                      000000000 000114000
+0429/10/2023COMPRA BET365 MX SEC                                                                                                 000000000 000550000
+0430/10/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000001000
+05020
+02PAOLA ALEJANDRA               RODRIGUEZ                     ALANIS                                                                                                                                                                    San Pedro                                                                            
+03WME200728TM1 20231218 000025000 000057901 000010500 000000000 000000000 000000863 000000138 000000000 000057901 0000579014460038489200768464598******1273002000000 0019420993  20231029202310292BE286B79E2440859E44E0C61D657713                  
+0417/11/2023GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/11/2023IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+05002
+02JOSE AMARO                    GARZA                         CRUZ                                                                                                                                                                      San Pedro                                                                            
+03WME200728TM1 20231218 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******0592001000000 0010000000  2023102920231029F2A403E9895E4671B44D5F1BFA099E5B                  
+05000
+02JORGE                         LOPEZ                         HUERTA                                                                                                                                                                    San Pedro                                                                            
+03WME200728TM1 20231218 000058226 000582262 000000000 000615262 000000000 000000000 000000000 000033000 000582262 0005822624460038489200768464598******4482001000000 00041773810 20231029202310297AB24E6DF55748848D3BD1A51135FFED                  
+0403/11/2023COMPRA PARKIT                                                                                                        000000000 000012000
+0410/11/2023COMPRA MP ECOMMERCE                                                                                                  000000000 000260000
+0429/10/2023COMPRA ENCHILADAS SUSY                                                                                               000000000 000033000
+0429/10/2023COMPRA ENCHILADAS SUSY                                                                                               000000000 000033000
+0429/10/2023Cancelación COMPRA                                                                                                   000000000-000033000
+0429/10/2023COMPRA TACOS ATARANTADOS ARMI                                                                                        000000000 000043930
+0429/10/2023COMPRA PARKIT                                                                                                        000000000 000012000
+0429/10/2023COMPRA PARKIT                                                                                                        000000000 000012000
+0429/10/2023COMPRA OSHKOSH CARTERS VA OTE                                                                                        000000000 000197312
+0429/10/2023COMPRA PARKIT                                                                                                        000000000 000012000
+0430/10/2023COMPRA EFEVOOP*EFEVOO POS                                                                                            000000000 000000010
+0430/10/2023COMPRA EFEVOOP*EFEVOO POS                                                                                            000000000 000000010
+05012
+02LUIS XAVIER                   CHAPA                         GONZALEZ                                                                                                                                                                  San Pedro                                                                            
+03WME200728TM1 20231218 000002000 000002000 000000000 000004000 000000000 000000000 000000000 000002000 000002000 0000020004460038489200768464598******3851001500000 0014980001  2023102920231029988678C4CA354F738CABED0D6103BB57                  
+0429/10/2023COMPRA EFEVOOP*EFEVOO POS                                                                                            000000000 000001000
+0429/10/2023COMPRA EFEVOOP*EFEVOO POS                                                                                            000000000 000001000
+0429/10/2023Cancelación COMPRA                                                                                                   000000000-000001000
+0429/10/2023COMPRA EFEVOOP*EFEVOO POS                                                                                            000000000 000001000
+0429/10/2023COMPRA EFEVOOP*EFEVOO POS                                                                                            000000000 000001000
+0429/10/2023Cancelación COMPRA                                                                                                   000000000-000001000
+05006
+02ESTEPHANY DANIELA             MURILLO                       GOMEZ                                                                                                                                                                     San Pedro                                                                            
+03WME200728TM1 20231218 000014379 000143794 000000000 000211144 000000000 000000000 000000000 000067350 000143794 0001437944460038489200768464598******0149001000000 00085620611 20231029202310293AFDB9F2AA0648A08C15B8F03166BEFF                  
+0401/11/2023COMPRA 7 ELEVEN T 1988                                                                                               000000000 000009650
+0413/11/2023COMPRA MADCOFFE                                                                                                      000000000 000005800
+0417/11/2023PAGO A TARJETA                                                                                                       000000000-000067350
+0423/11/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000002500
+0423/11/2023COMPRA DONA TOTA SN AGUST PA                                                                                         000000000 000009900
+0423/11/2023COMPRA 6380 ELOY CAVAZOZ WALD                                                                                        000000000 000012194
+0424/11/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000002500
+0424/11/2023COMPRA LA SIBERIA ELOY CAVAZO                                                                                        000000000 000020000
+0425/11/2023COMPRA EL PAPALOTE REVOLUCION                                                                                        000000000 000080700
+0425/11/2023COMPRA SYMA AUTOSHAMPOO 8                                                                                            000000000 000016000
+0429/10/2023COMPRA KFC SAN AGUSTIN                                                                                               000000000 000010900
+0431/10/2023COMPRA NETPAY *POUND                                                                                                 000000000 000041000
+05012
+02SERGIO OSWALDO                SALCEDO                       GONZALEZ                                                                                                                                                                  San Pedro                                                                            
+03WME200728TM1 20231218 000034597 000345974 000000000 000664175 000000000 000000000 000000000 000318201 000345974 0003459744460038489200768464598******3755001000000 00065402611 2023102920231029720EBF4CE14848E594B3404219E245E5                  
+0402/11/2023COMPRA WAL MART VALLE OTE                                                                                            000000000 000040140
+0403/11/2023COMPRA MOBO GRAN PLAZA GDL                                                                                           000000000 000037900
+0403/11/2023COMPRA BP*MENESTERES2                                                                                                000000000 000163350
+0404/11/2023COMPRA VIDEOJUEGOS HAPPYLAND                                                                                         000000000 000015000
+0411/11/2023COMPRA HEB SANTA CATARINA I                                                                                          000000000 000032509
+0411/11/2023COMPRA HEB SANTA CATARINA I                                                                                          000000000 000063246
+0412/11/2023COMPRA MERPAGO*TACOSELGUERO                                                                                          000000000 000019500
+0413/11/2023COMPRA TH GARZA SADA                                                                                                 000000000 000006200
+0413/11/2023COMPRA STARBUCKS MAGMA TOWERS                                                                                        000000000 000010000
+0413/11/2023PAGO A TARJETA                                                                                                       000000000-000001336
+0415/11/2023COMPRA REST CHEZ STA CATARINA                                                                                        000000000 000062790
+0416/11/2023COMPRA CHEZ                                                                                                          000000000 000123640
+0416/11/2023COMPRA TH FASHION DRIVE                                                                                              000000000 000005400
+0417/11/2023PAGO A TARJETA                                                                                                       000000000-000001113
+0417/11/2023PAGO A TARJETA                                                                                                       000000000-000070000
+0422/11/2023PAGO A TARJETA                                                                                                       000000000-000000752
+0422/11/2023PAGO A TARJETA                                                                                                       000000000-000245000
+0430/10/2023COMPRA TH ROMULO GARZA                                                                                               000000000 000013100
+0431/10/2023COMPRA CINEPOLIS TAQUILLA                                                                                            000000000 000018000
+0431/10/2023COMPRA CINEPOLIS DULCERIA                                                                                            000000000 000053400
+05020
+02EDGAR GIOVANNI                MANRIQUEZ                     CASTRO                                                                                                                                                                    San Pedro                                                                            
+03WME200728TM1 20231218 000072025 000720254 000000000 000720254 000000000 000000000 000000000 000000000 000720254 0007202544460038489200768464598******8638001000000 00027974610 2023102920231029DA01331C27DA435E85BC169E77EDB8F0                  
+0403/11/2023COMPRA HEB SAN PEDRO                                                                                                 000000000 000030000
+0406/11/2023COMPRA FEDA GAS                                                                                                      000000000 000071828
+0410/11/2023COMPRA FEDA GAS                                                                                                      000000000 000053500
+0415/11/2023COMPRA FEDA GAS                                                                                                      000000000 000065000
+0417/11/2023COMPRA ZARA PZA FIESTA                                                                                               000000000 000053900
+0419/11/2023COMPRA PARQUE DIVER TOPGOLF                                                                                          000000000 000083000
+0424/11/2023RETIRO EN ATM                                                                                                        000000000 000063422
+0424/11/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000003805
+0424/11/2023IVA DE COMISIÓN                                                                                                      000000000 000000609
+0425/11/2023COMPRA 7 ELEVEN VILLA DORADA                                                                                         000000000 000015200
+0425/11/2023COMPRA 7 ELEVEN T 1687                                                                                               000000000 000027200
+0425/11/2023COMPRA 7 ELEVEN T 1687                                                                                               000000000 000007500
+0425/11/2023COMPRA BODEGA CLOUTHIER                                                                                              000000000 000009900
+0425/11/2023RETIRO EN ATM                                                                                                        000000000 000013480
+0425/11/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000000809
+0425/11/2023IVA DE COMISIÓN                                                                                                      000000000 000000129
+0429/10/2023COMPRA TH FASHION DRIVE                                                                                              000000000 000009900
+0429/10/2023COMPRA FEDA GAS                                                                                                      000000000 000070150
+0429/10/2023COMPRA OXXOAPICE MTY                                                                                                 000000000 000020700
+0429/10/2023COMPRA OXXO VILLAS MIRADOR                                                                                           000000000 000008500
+0429/10/2023COMPRA SPOTIFY                                                                                                       000000000 000016900
+0429/10/2023COMPRA CARLS JR VALLE ALIANZA                                                                                        000000000 000031000
+0431/10/2023COMPRA FEDA GAS                                                                                                      000000000 000063822
+05023
+02Bryton                        Arguelles                     Aguilar                                                                                                                                                                   San Pedro                                                                            
+03WME200728TM1 20231218 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******6468001000000 0010000000  20231029202310291BF97CF738EB461F80E02879BEC214B4                  
+05000
+02Roberto                       Requena                       hernandez                                                                                                                                                                 San Pedro                                                                            
+03WME200728TM1 20231218 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******3712001000000 0010000000  2023102920231029925F4BF744584DD79488F9BEB05EBE2B                  
+05000
+02ALDO                          GOMEZ                         PEREZ                                                                                                                                                                     San Pedro                                                                            
+03WME200728TM1 20231218 000099694 000996935-000005000 001001935 000000000 000000000 000000000 000000000 000996935 0009969354460038489200768464598******7219001000000 00000306510 2023102920231029DD593E848E8348E8B63366E349711647                  
+0401/11/2023COMPRA KFC 625 PIN COUNTRY                                                                                           000000000 000031800
+0402/11/2023COMPRA WAL MART PZA CENTRIKA                                                                                         000000000 000010900
+0403/11/2023COMPRA CBA                                                                                                           000000000 000144343
+0403/11/2023COMPRA STRIPE*UBER TRIP                                                                                              000000000 000022993
+0405/11/2023COMPRA OYO ROOMS                                                                                                     000000000 000005500
+0405/11/2023COMPRA CHILIS NUEVO SUR MTY                                                                                          000000000 000081000
+0407/11/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000005000
+0407/11/2023COMPRA SYMA AUTOSHAMPOO 8                                                                                            000000000 000016000
+0407/11/2023COMPRA HEB TEC                                                                                                       000000000 000102520
+0408/11/2023COMPRA TH SAN JERONIMO                                                                                               000000000 000010100
+0412/11/2023COMPRA OXXO VESSI                                                                                                    000000000 000012550
+0412/11/2023COMPRA TIM HORTONS ARBOLEDA                                                                                          000000000 000013100
+0412/11/2023COMPRA CBA                                                                                                           000000000 000115066
+0412/11/2023COMPRA SEARS MONTERREY GALERI                                                                                        000000000 000054320
+0412/11/2023COMPRA SEARS MONTERREY GALERI                                                                                        000000000 000047920
+0412/11/2023COMPRA NETPAY *STEREN                                                                                                000000000 000059900
+0413/11/2023COMPRA PC ONLINE N 4                                                                                                 000000000 000021800
+0413/11/2023COMPRA PC ONLINE N 4                                                                                                 000000000 000027900
+0413/11/2023COMPRA PC ONLINE N 4                                                                                                 000000000 000036900
+0415/11/2023COMPRA COM RAP WENDYS SN PED                                                                                         000000000 000013500
+0420/11/2023COMPRA WAL MART LAS TORRES                                                                                           000000000 000019273
+0429/10/2023COMPRA SORIANA7 CONTRY                                                                                               000000000 000022965
+0430/10/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000018000
+0431/10/2023COMPRA MP ECOMMERCE                                                                                                  000000000 000108585
+05024
+02Rafael                        Rodriguez                     caicedo                                                                                                                                                                   San Pedro                                                                            
+03WME200728TM1 20231218 000081295 000812951 000000000 000812951 000000000 000000000 000000000 000000000 000812951 0008129514460038489200768464598******5972001000000 00018704910 2023102920231029A7A5DE31A54A438798CF59EE9B3EB9EE                  
+0406/11/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000007000
+0406/11/2023COMPRA EFEVOOP*EMBOCA                                                                                                000000000 000013000
+0406/11/2023COMPRA CEA DENTAL                                                                                                    000000000 000075600
+0407/11/2023COMPRA SERV PAKMAIL VALLE OTE                                                                                        000000000 000092000
+0407/11/2023COMPRA NETPAY *PETRUM LINCOLN                                                                                        000000000 000145020
+0408/11/2023COMPRA SERV PAKMAIL VALLE OTE                                                                                        000000000 000052000
+0409/11/2023COMPRA BRANCH CAKES & MORE                                                                                           000000000 000014000
+0409/11/2023COMPRA NUEVA LUNA REST                                                                                               000000000 000035000
+0410/11/2023COMPRA CLIP MX*LA SIBERIANA                                                                                          000000000 000026041
+0413/11/2023COMPRA F AHORRO MTHA HARLEY                                                                                          000000000 000055290
+0417/11/2023COMPRA LLANTAS CAVAZOS II                                                                                            000000000 000298000
+05011
+02SERGIO ALEJANDRO              FLORES                        COLORADO                                                                                                                                                                  San Pedro                                                                            
+03WME200728TM1 20231218 000035381 000353811 000000000 000767811 000000000 000000000 000000000 000414000 000353811 0003538114460038489200768464598******1258001000000 00064618910 2023102920231029C0E9EB33CAD847B6B0140D442B82D9D9                  
+0403/11/2023COMPRA RINDE GAS ARENA                                                                                               000000000 000020000
+0403/11/2023COMPRA GM SUPERCARNES EL MEZQ                                                                                        000000000 000035942
+0404/11/2023COMPRA BODEGA LOS FRESNOS                                                                                            000000000 000052150
+0414/11/2023COMPRA OXXO PALMAS                                                                                                   000000000 000006250
+0417/11/2023PAGO A TARJETA                                                                                                       000000000-000414000
+0418/11/2023COMPRA LLANTAS Y RINES SANTO                                                                                         000000000 000325000
+0422/11/2023COMPRA 1333 CONCORDIA                                                                                                000000000 000028900
+0429/10/2023COMPRA PRESTAMO EXPRESS                                                                                              000000000 000031000
+0429/10/2023COMPRA HEB CONCORDIA                                                                                                 000000000 000166404
+0429/10/2023COMPRA OXXONILO MTY                                                                                                  000000000 000008500
+0429/10/2023COMPRA QPOLLO SAN VICENTE                                                                                            000000000 000019765
+0429/10/2023COMPRA 7ELEVEN T2808 CONSTI                                                                                          000000000 000015700
+0429/10/2023COMPRA REAL MEZQUITAL                                                                                                000000000 000020000
+0429/10/2023COMPRA OXXO TAURO                                                                                                    000000000 000018200
+0430/10/2023COMPRA SERV SUC PARQUE FUNDI                                                                                         000000000 000020000
+05015
+02LEONEL                        ROQUE                         CORTES                                                                                                                                                                    San Pedro                                                                            
+03WME200728TM1 20231218 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460035989200719464598******6485001000000 0010000000  202310312023103133C383E70136448DBC01251E3A473F1C                  
+05000
+02ILAN HAZIEL                   ARELLANO                      ZAVALA                                                                                                                                                                    San Pedro                                                                            
+03WME200728TM1 20231218 000032582 000325822 000000000 000325822 000000000 000000000 000000000 000000000 000325822 0003258224460035989200719464598******8242001000000 00067417810 202310312023103140E1492D97EB44FAAB9B0BEDBAE47914                  
+0409/11/2023COMPRA OPENPAY*DIDIFOODMX                                                                                            000000000 000025752
+0410/11/2023COMPRA D LOCAL*MEGA LIMITED                                                                                          000000000 000009450
+0412/11/2023COMPRA 12231 OUT MTY                                                                                                 000000000 000013000
+0412/11/2023COMPRA MERPAGO*JIUXING                                                                                               000000000 000012200
+0413/11/2023COMPRA SEGAS                                                                                                         000000000 000087960
+0422/11/2023COMPRA SEGAS                                                                                                         000000000 000087960
+0425/11/2023COMPRA 604 ANAHUAC                                                                                                   000000000 000089500
+05007
+02JOSE AMARO                    GARZA                         CRUZ                                                                                                                                                                      San Pedro                                                                            
+03WME200728TM1 20231218 000089450 000894499 000000000 000944499 000000000 000000000 000000000 000050000 000894499 0008944994460035989200719464598******5811001000000 00010550110 2023103120231031130DE552E629461C890C3B92FEBA3E25                  
+0408/11/2023COMPRA SHASA GALERIAS MONTERR                                                                                        000000000 000092700
+0408/11/2023COMPRA 7524 STR GALERIAS MTY                                                                                         000000000 000054900
+0408/11/2023COMPRA ISADORA GALERIAS MONTE                                                                                        000000000 000069600
+0408/11/2023COMPRA CARLS JUNIOR                                                                                                  000000000 000019400
+0408/11/2023COMPRA NIKKORI GALERIAS                                                                                              000000000 000029900
+0411/11/2023COMPRA SMART VILLA GARCIA                                                                                            000000000 000333909
+0419/11/2023COMPRA BOD VILLA GARCIA                                                                                              000000000 000158800
+0420/11/2023COMPRA BOD VILLA GARCIA                                                                                              000000000 000185290
+0423/11/2023PAGO A TARJETA                                                                                                       000000000-000050000
+05009
+02Jose Flavio                   Lopez                         Martinez                                                                                                                                                                  San Pedro                                                                       52105
+03WME200728TM1 20231218 000423445 004234448 003419263 000683494 000000000 000165380 000026461 000152950 004234448 0042344484460042189200842464598******6342004000000-00023444810 20231026202310260894FF9963E544C4AD9BF00C2F33D08A                  
+0403/11/2023PAGO A TARJETA                                                                                                       000000000-000010000
+0414/11/2023GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0414/11/2023IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+0422/11/2023COMPRA STR*UBER EATS                                                                                                 000000000 000033000
+0425/11/2023PAGO A TARJETA                                                                                                       000000000-000010000
+0426/10/2023COMPRA OXXO MONTES ROVALLOSOS                                                                                        000000000 000021650
+0426/10/2023COMPRA OXXO MONTES ROVALLOSOS                                                                                        000000000 000021650
+0426/10/2023Cancelación COMPRA                                                                                                   000000000-000021650
+0426/10/2023COMPRA STR*UBER EATS                                                                                                 000000000 000056500
+0426/10/2023COMPRA STR*UBER EATS                                                                                                 000000000 000056500
+0426/10/2023Cancelación COMPRA                                                                                                   000000000-000056500
+0426/10/2023COMPRA SUPERCENTER GOMEZ MORI                                                                                        000000000 000031600
+0426/10/2023COMPRA SUPERCENTER GOMEZ MORI                                                                                        000000000 000031600
+0426/10/2023Cancelación COMPRA                                                                                                   000000000-000031600
+0426/10/2023COMPRA BURO DE CREDITO II                                                                                            000000000 000023200
+0426/10/2023COMPRA BURO DE CREDITO II                                                                                            000000000 000023200
+0426/10/2023Cancelación COMPRA                                                                                                   000000000-000023200
+0426/10/2023GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0426/10/2023IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+0428/10/2023COMPRA STRIPE*UBER EATS                                                                                              000000000 000050200
+0428/10/2023COMPRA OXXO MONTES ROVALLOSOS                                                                                        000000000 000018500
+0428/10/2023COMPRA STR*UBER EATS                                                                                                 000000000 000046000
+0429/10/2023COMPRA INNOVA SPORT VALLE ORI                                                                                        000000000 000044000
+0429/10/2023COMPRA ALITAS VALLE ORIENTE                                                                                          000000000 000089010
+0429/10/2023COMPRA GALERIAS VALLE ORIENTE                                                                                        000000000 000002500
+0429/10/2023COMPRA TH RICARDO MARGAIN                                                                                            000000000 000011400
+0429/10/2023COMPRA STRIPE*UBER EATS                                                                                              000000000 000022400
+0429/10/2023COMPRA OXXO GAS LAS TORRES                                                                                           000000000 000091184
+0430/10/2023COMPRA TH RICARDO MARGAIN                                                                                            000000000 000009400
+05029
+02Mauricio                      Hernández                                                                                                                                                                                               San Pedro                                                                       06700
+03WME200728TM1 20231218 000125000 001246192 000702465 000524709 000000000 000036740 000005878 000070000 001246192 0012461924460038489200768464598******3210010000000 00875380810 2023102920231029BAE630FEFF644FFFA04AA6C063A4FAE2                  
+0404/11/2023COMPRA REST EL BAJIO MUNDO E                                                                                         000000000 000087700
+0409/11/2023RETIRO EN ATM                                                                                                        000000000 000013480
+0409/11/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000000809
+0409/11/2023IVA DE COMISIÓN                                                                                                      000000000 000000129
+0409/11/2023RETIRO EN ATM                                                                                                        000000000 000028480
+0409/11/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000001709
+0409/11/2023IVA DE COMISIÓN                                                                                                      000000000 000000273
+0409/11/2023RETIRO EN ATM                                                                                                        000000000 000013132
+0409/11/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000000788
+0409/11/2023IVA DE COMISIÓN                                                                                                      000000000 000000126
+0409/11/2023RETIRO EN ATM                                                                                                        000000000 000013480
+0409/11/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000000809
+0409/11/2023IVA DE COMISIÓN                                                                                                      000000000 000000129
+0409/11/2023RETIRO EN ATM                                                                                                        000000000 000013074
+0409/11/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000000784
+0409/11/2023IVA DE COMISIÓN                                                                                                      000000000 000000126
+0409/11/2023RETIRO EN ATM                                                                                                        000000000 000013422
+0409/11/2023COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000000805
+0409/11/2023IVA DE COMISIÓN                                                                                                      000000000 000000129
+0417/11/2023GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/11/2023IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+0426/11/2023COMPRA HEB VALLE ORIENTE                                                                                             000000000 000155375
+0429/10/2023COMPRA 7 ELEVEN T2 ULTIMA ESP                                                                                        000000000 000005100
+0429/10/2023COMPRA TAXIS EBSSA MTY XVII                                                                                          000000000 000070000
+0429/10/2023COMPRA TAXIS EBSSA MTY XVII                                                                                          000000000 000070000
+0429/10/2023Cancelación COMPRA                                                                                                   000000000-000070000
+0429/10/2023COMPRA HOME DEPOT GARZA GARCI                                                                                        000000000 000030500
+0429/10/2023COMPRA OXXOPASEOS DE MEXICO P                                                                                        000000000 000004350
+05028
+02Luis Alfonso                  Othon Walldez                                                                                                                                                                                           San Pedro                                                                            
+03WME200728TM1 20231218 000125334 001253338 000734807 000787846 000000000 000044384 000007101 000320800 001253338 0012533384460038489200768464598******4209001500000 00024666210 20231029202310294E18B04D448546159438CCDA6750B687                  
+0404/11/2023COMPRA HDM 1169 CUMBRES OEST                                                                                         000000000 000091500
+0405/11/2023COMPRA PETRO SAV LINCOLN                                                                                             000000000 000068970
+0405/11/2023COMPRA CLIP MX*HABANERO GRILL                                                                                        000000000 000013000
+0406/11/2023COMPRA 7 ELEVEN CUMBR SN AGUS                                                                                        000000000 000011850
+0407/11/2023COMPRA MAXIMA COMERCIAL 1                                                                                            000000000 000478268
+0407/11/2023PAGO A TARJETA                                                                                                       000000000-000010500
+0417/11/2023PAGO A TARJETA                                                                                                       000000000-000050000
+0417/11/2023PAGO A TARJETA                                                                                                       000000000-000250000
+0417/11/2023PAGO A TARJETA                                                                                                       000000000-000010300
+0421/11/2023COMPRA FERRE ASTROS SA DE CV                                                                                         000000000 000014900
+0429/10/2023COMPRA EFEVOOP*EFEVOO POS                                                                                            000000000 000000500
+0429/10/2023COMPRA HDM 1169 CUMBRES OEST                                                                                         000000000 000041500
+0430/10/2023COMPRA CUMBRES III S D                                                                                               000000000 000030860
+0431/10/2023COMPRA MERPAGO*MER PAGO 2                                                                                            000000000 000036498
+05014
+02ANTONIO JAVIER                SARRE                         MERCADO                       Av. Manuel Gomez Morin                            #325                                    Col. Valle De Santa                               San Pedro Garza                                                                 66268
+03WME200728TM1 20231218 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460034789200694464598******1561005000000 0050000000  202311012023110102586966D6294E46AD9933665F997498                  
+05000
+02YADIRA IVONE                  LAGUNA                        GALVAN                        San fernando 208                                                                          Mitras norte                                      Monterrey                                                                       64320
+03WME200728TM1 20231218 000098909 000989090 000000000 000989090 000000000 000000000 000000000 000000000 000989090 0009890904460017389200347464598******1200001000000 00001091010 20231115202311157499A5F2679945948F71D22DD0CD7455                  
+0416/11/2023DEVOLUCIÓN PAGO A TARJETA                                                                                            000000000 000240900
+0416/11/2023COMPRA NIKKORI                                                                                                       000000000 000085100
+0416/11/2023COMPRA SORIANA238 PZAFANAHUAC                                                                                        000000000 000129810
+0417/11/2023COMPRA OXXO RUIZ CORTINEZ II                                                                                         000000000 000026450
+0417/11/2023COMPRA EL MUCHACHO ALEGRE II                                                                                         000000000 000124000
+0418/11/2023COMPRA OXXO PARADISE CUL                                                                                             000000000 000053080
+0418/11/2023COMPRA MERPAGO*CARLOS                                                                                                000000000 000185000
+0419/11/2023COMPRA RESTAURANT BELLAMAR I                                                                                         000000000 000055200
+0420/11/2023COMPRA REST EL SINALOENSE                                                                                            000000000 000069400
+0420/11/2023COMPRA OXXOLAS SALVIAS II                                                                                            000000000 000020150
+05010
+02Carla                         De la Fuente                  Monroy                        Prol los soles                                    200                                     Valle Ote                                         San Pedro                                                                       66269
+03WME200728TM1 20231218 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460016189200322464598******2053004000000 0040000000  202311162023111636619AD1824A4AAA83AA2712000DD2B1                  
+05000
+02Roosevelt                     de la Garza                                                                                                                                                                                             San Pedro                                                                            
+03WME200728TM1 20231218 000000500 000000500 000000000 000000500 000000000 000000000 000000000 000000000 000000500 0000005004460006289200124464598******5857002000000 0019995001  2023112420231124F6FE2D9BF7DF4DA88B7B51D77E54CBFB                  
+0424/11/2023COMPRA EFEVOOP*EMBOCA2                                                                                               000000000 000000500
+05001
