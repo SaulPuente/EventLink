@@ -1,0 +1,55 @@
+01CENTUMCCR 20241128000007
+02pruebas                       Crevolvente                                                 sendero de las privanzas                          317                                     privanzas                                         San padro garza                                                                 66278
+03EMO240319721 20241218 000006655 000066546 000000000 000067146 000000000 000000000 000000000 000000600 000066546 0000665464460037289200743449583******2466000100000 00003345410 20241030202410301E24A5C92926479D93A161E13D4C04A8                  
+0401/11/2024COMPRA EFEVOOP*EFEVOOPOS CLIE                                                                                        000000000 000000200
+0401/11/2024DEVOLUCIÓN EFEVOOP*LMT198                                                                                            000000000-000000100
+0401/11/2024COMPRA EFEVOOP*LMT198                                                                                                000000000 000000100
+0401/11/2024COMPRA EFEVOOP*EFEVOOPOS CLIE                                                                                        000000000 000000100
+0401/11/2024DEVOLUCIÓN EFEVOOP*EFEVOOPOS CLIE                                                                                    000000000-000000200
+0401/11/2024COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000000809
+0401/11/2024IVA DE COMISIÓN                                                                                                      000000000 000000129
+0401/11/2024COMPRA EFEVOOP*EFEVOOPOS CLIE                                                                                        000000000 000000200
+0401/11/2024DEVOLUCIÓN EFEVOOP*EFEVOOPOS CLIE                                                                                    000000000-000000200
+0401/11/2024DEVOLUCIÓN EFEVOOP*EFEVOOPOS CLIE                                                                                    000000000-000000100
+0401/11/2024RETIRO EN ATM                                                                                                        000000000 000013480
+0407/11/2024COMPRA EFEVOOP*EFEVOOPOS CLIE                                                                                        000000000 000000138
+0407/11/2024COMPRA EFEVOOP*EFEVOOPOS CLIE                                                                                        000000000 000000360
+0411/11/2024COMPRA OPENPAY*DIDIFOODMX                                                                                            000000000 000012000
+0430/10/2024COMPRA TACOS Y H LA CONQUISTA                                                                                        000000000 000021630
+0431/10/2024COMPRA ARENA MONTERREY                                                                                               000000000 000018000
+05016
+02Adrian                        Roman                                                       Calzada de Hueso                                  25                                      Lomas de angelopolis                              Santa clara Oco                                                                 72820
+03EMO240319721 20241218 000125000 000601022 000000000 000602550 000000000 000000000 000000000 000001528 000601022 0006010224460029789200595449583******2034010000000 0093989785  20241105202411050D9F4AD9223746D59F98A084A8FA2250                  
+0407/11/2024COMPRA OPENPAY*RAPPI                                                                                                 000000000 000084050
+0407/11/2024COMPRA RAPPI                                                                                                         000000000 000001528
+0407/11/2024COMPRA ESPIRAL*AMERICACARRENT                                                                                        000000000 000516972
+0407/11/2024DEVOLUCIÓN RAPPI                                                                                                     000000000-000001528
+05004
+02Francisco X                   Salazar                                                     Blvd Europa                                       10                                      Lomas de angelopolis                              San Andres Chol                                                                 72820
+03EMO240319721 20241218 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460029789200595449583******2134000960000 0009600000  2024110520241105E60C2E934E1F4096A4B7139C0874D270                  
+05000
+02Miguel X                      Quiroga                                                     Calle de Los lagos                                1525                                    Centro                                            Santa Clara Oco                                                                 72820
+03EMO240319721 20241218 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460029789200595449583******2891002400000 0024000000  20241105202411051FA2BE8E514344CF8CF94BFAAC4BEA78                  
+05000
+02Monica                        Gonzalez                                                    Queretaro                                         128                                     Alameda                                           Celaya                                                                          38050
+03EMO240319721 20241218 000231336 002313360 000000000 002313360 000000000 000000000 000000000 000000000 002313360 0023133604460029789200595449583******2530005000000 00268664010 2024110520241105CDCBC919C05C4B5894933299501D3D61                  
+0408/11/2024COMPRA REST CENACOLO EVENTOS                                                                                         000000000 000759000
+0408/11/2024COMPRA NETPAY *SIGNATURE ROOM                                                                                        000000000 000205160
+0411/11/2024COMPRA VELPAY*SHOP ELLZ REST                                                                                         000000000 000341200
+0411/11/2024COMPRA UNIFORMUNDO                                                                                                   000000000 000620000
+0411/11/2024COMPRA UNIFORMUNDO                                                                                                   000000000 000288000
+0414/11/2024COMPRA MERCADO PAGO                                                                                                  000000000 000100000
+05006
+02Ignacio                       Madero                        Gutierrez                     Arteaga y Salazar                                 1267                                    Contadero                                         Cuajimalpa                                                                      05500
+03EMO240319721 20241218 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460021189200421449583******2443000100000 0001000000  202411122024111225EA1E01A5B244BCA1543EDDDF75B2EE                  
+05000
+02Angel                         ahedo                         ahedo                         Centum                                            1                                       Centum                                            Centum                                                                          66260
+03EMO240319721 20241218 000021132 000211324 000000000 000211324 000000000 000000000 000000000 000000000 000211324 0002113244460019889200396449583******2774000500000 00028867611 2024111320241113CDBCB4E083EE40F28DB2737E28F49C4C                  
+0414/11/2024COMPRA OXXO GAS                                                                                                      000000000 000054579
+0415/11/2024COMPRA LAZARO Y DIEGO REST                                                                                           000000000 000074520
+0415/11/2024COMPRA OXXO LAS TORRES                                                                                               000000000 000008000
+0423/11/2024COMPRA OXXO NACIONAL                                                                                                 000000000 000016670
+0423/11/2024COMPRA 7 ELEVEN T 1588                                                                                               000000000 000006000
+0425/11/2024COMPRA CASA BENELL                                                                                                   000000000 000043355
+0425/11/2024COMPRA STARBUCKS P VALLE RES                                                                                         000000000 000008200
+05007
