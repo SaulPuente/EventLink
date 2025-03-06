@@ -1,660 +1,681 @@
-01EPBBCR    20250128000077
+01EPBBCR    20250228001125
 02JESUS ISRAEL                  FLORES                        GLORIA                                                                                                                                                                    San Pedro                                                                            
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******3238000500000 0005000000  20241229202412292D8DA0C90B08479385F3C827E6D8F297                  
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******3238000500000 0005000000  20250129202501292D8DA0C90B08479385F3C827E6D8F297                  
 05000
 02ALDO                          GOMEZ                         PEREZ                                                                                                                                                                     San Pedro                                                                       89605
-03WME200728TM1 20250217 000225046 002250461 000994573 002250888 000000000 000000000 000000000 000995000 002250461 0022504614460038489200768464598******6342004000000 00174953910 20241229202412290894FF9963E544C4AD9BF00C2F33D08A                  
-0401/01/2025COMPRA OXXO LIB MANUEL                                                                                               000000000 000001500
-0402/01/2025COMPRA BUCHAKAS GOMEZ MORIN                                                                                          000000000 000084500
-0403/01/2025COMPRA FARMACIAS SIMILARES                                                                                           000000000 000018500
-0403/01/2025COMPRA DR JORGE GRANADOS                                                                                             000000000 000030000
-0403/01/2025COMPRA SORIANA7 CONTRY                                                                                               000000000 000027900
-0404/01/2025COMPRA WAL MART LAS TORRES                                                                                           000000000 000093000
-0404/01/2025COMPRA SIBERIA HIDALGO                                                                                               000000000 000032500
-0404/01/2025COMPRA 7 ELEVEN BRUISAS                                                                                              000000000 000012600
-0405/01/2025COMPRA TODOS EN BICI                                                                                                 000000000 000010000
-0405/01/2025COMPRA SUPERCENTER REF HUINA                                                                                         000000000 000017618
-0409/01/2025COMPRA WINGSTOP MICROPOLIS                                                                                           000000000 000060000
-0411/01/2025COMPRA SUPERCENTER GOMEZ MORI                                                                                        000000000 000190953
-0411/01/2025COMPRA CITY MARKET MTY 419                                                                                           000000000 000015600
-0412/01/2025COMPRA NETPAY *KRESKAS PEDIA                                                                                         000000000 000140000
-0415/01/2025PAGO A TARJETA                                                                                                       000000000-000995000
-0417/01/2025COMPRA FARM SIMILARES SUC 275                                                                                        000000000 000025900
-0418/01/2025COMPRA LABORATOROS BSH                                                                                               000000000 000151168
-0418/01/2025COMPRA OXXO HIDALGO                                                                                                  000000000 000016200
-0418/01/2025COMPRA ZTL*FRANCISCOJAVIERCAB                                                                                        000000000 000032400
-0418/01/2025COMPRA DR JORGE GRANADOS                                                                                             000000000 000350000
-0419/01/2025COMPRA WAL MART LAS TORRES                                                                                           000000000 000038439
-0419/01/2025COMPRA NAYAX1 *NAYAX ALVACO                                                                                          000000000 000002000
-0419/01/2025COMPRA MISC HOLY COW LA FE                                                                                           000000000 000064460
-0419/01/2025COMPRA 7 ELEVEN BRUISAS                                                                                              000000000 000011950
-0421/01/2025COMPRA FARM GUADALAJARA 434                                                                                          000000000 000123655
-0421/01/2025COMPRA SIBERIA HIDALGO                                                                                               000000000 000019000
-0421/01/2025COMPRA CLIN LATIN OCULAR S                                                                                           000000000 000045000
-0422/01/2025COMPRA 7 ELEVEN BRUISAS                                                                                              000000000 000003750
-0422/01/2025COMPRA CINEPOLIS DULCERIA                                                                                            000000000 000035100
-0422/01/2025COMPRA WAL MART LAS TORRES                                                                                           000000000 000050727
-0423/01/2025COMPRA POINTMP*MARIAMARIA                                                                                            000000000 000050000
-0424/01/2025COMPRA WAL MART LAS TORRES                                                                                           000000000 000046000
-0424/01/2025COMPRA CAFETERI GABY HIDALGO2                                                                                        000000000 000046000
-0425/01/2025COMPRA FARM SIMILARES SUC 275                                                                                        000000000 000013200
-0425/01/2025COMPRA WAL MART LAS TORRES                                                                                           000000000 000038038
-0425/01/2025COMPRA SAMS MTY GONZALITOS                                                                                           000000000 000024350
-0426/01/2025COMPRA TACOS PRIMO                                                                                                   000000000 000036000
-0427/01/2025COMPRA CAFET GABY S HIDAL                                                                                            000000000 000046750
-0429/12/2024COMPRA SANCHO PANZA CARAVANA                                                                                         000000000 000042400
-0429/12/2024COMPRA DL SOL 174                                                                                                    000000000 000118755
-0429/12/2024COMPRA LISTER ALTAMIRA                                                                                               000000000 000069900
-0430/12/2024COMPRA FARM SIM SUC 1143                                                                                             000000000 000015075
+03WME200728TM1 20250320 000130383 001303827 002250461 001304366 000000000 000000000 000000000 002251000 001303827 0013038274460038489200768464598******6342004000000 00269617310 20250129202501290894FF9963E544C4AD9BF00C2F33D08A                  
+0402/02/2025COMPRA SPIKES CONCORDIA                                                                                              000000000 000053240
+0403/02/2025COMPRA LAV AUT D LUXE                                                                                                000000000 000020000
+0403/02/2025COMPRA FARM SIMI APODACA 39                                                                                          000000000 000013425
+0406/02/2025COMPRA DEPOS SIERRA MADRE VAL                                                                                        000000000 000025000
+0406/02/2025COMPRA F AHORRO MTGT GLORIETA                                                                                        000000000 000003700
+0406/02/2025COMPRA CAFETERIA                                                                                                     000000000 000018500
+0407/02/2025COMPRA LOS DOGOS                                                                                                     000000000 000030000
+0407/02/2025COMPRA AUTOZONE 7495                                                                                                 000000000 000010900
+0408/02/2025COMPRA STARBUCKS PLAZA REAL                                                                                          000000000 000017100
+0409/02/2025COMPRA LITTLE CESARS VALTERRA                                                                                        000000000 000009900
+0409/02/2025COMPRA 7 ELEVEN BACHILLERES                                                                                          000000000 000008600
+0410/02/2025COMPRA FARMACIAS SIMILARES                                                                                           000000000 000012150
+0411/02/2025COMPRA BENAVIDES S14311 L CAR                                                                                        000000000 000029665
+0413/02/2025COMPRA SUPERCENTER GOMEZ MORI                                                                                        000000000 000019900
+0413/02/2025COMPRA CHEESECAKE PT VALLE RV                                                                                        000000000 000136730
+0414/02/2025PAGO A TARJETA                                                                                                       000000000-002251000
+0415/02/2025COMPRA REST ITALIA NOSTRA                                                                                            000000000 000085000
+0415/02/2025COMPRA FAR GUAD 1745                                                                                                 000000000 000004450
+0416/02/2025COMPRA OXXO SANTIAGO                                                                                                 000000000 000004500
+0416/02/2025COMPRA BENAV330381PASEO LA FE                                                                                        000000000 000002200
+0416/02/2025COMPRA ABASTECEDORA LOS TACOS                                                                                        000000000 000026300
+0416/02/2025COMPRA BENAV330381PASEO LA FE                                                                                        000000000 000002300
+0416/02/2025COMPRA CIRCUS ANAHUAC                                                                                                000000000 000011700
+0420/02/2025COMPRA F AHORRO MTVO VALLE O                                                                                         000000000 000030800
+0420/02/2025COMPRA CINEPOLIS DULCERIA                                                                                            000000000 000016800
+0421/02/2025COMPRA CITY MARKET MTY 419                                                                                           000000000 000017000
+0421/02/2025COMPRA SUPERCENTER GOMEZ MORI                                                                                        000000000 000122722
+0422/02/2025COMPRA FARM SIMILARES SUC 275                                                                                        000000000 000047700
+0422/02/2025COMPRA CLIP MX*ALIMENTOS Y BE                                                                                        000000000 000070000
+0422/02/2025COMPRA CLIN LATIN OCULAR S                                                                                           000000000 000070000
+0422/02/2025COMPRA 7 ELEVEN BRUISAS                                                                                              000000000 000013950
+0423/02/2025COMPRA CLIP MX*ALIMENTOS Y BE                                                                                        000000000 000055000
+0423/02/2025COMPRA MARISCOS COSTA CHICA                                                                                          000000000 000055000
+0423/02/2025COMPRA FARM GUAD SUC 622                                                                                             000000000 000010084
+0423/02/2025COMPRA FARMACIA CHYB HERMANOS                                                                                        000000000 000011700
+0424/02/2025COMPRA CAFET GABY                                                                                                    000000000 000036000
+0424/02/2025COMPRA WAL MART LAS TORRES                                                                                           000000000 000034550
+0424/02/2025COMPRA CLIP MX*ALIMENTOS Y BE                                                                                        000000000 000025400
+0427/02/2025COMPRA DEPOS SIERRA MADRE VAL                                                                                        000000000 000062200
+0429/01/2025COMPRA OXXO GARZA SADA                                                                                               000000000 000014100
+0429/01/2025COMPRA CINEPOLIS DULCERIA                                                                                            000000000 000044100
+0429/01/2025COMPRA ANTOJITOS ROMA                                                                                                000000000 000022000
 05042
 02Mauricio                      Hernandez                     Gordillo                                                                                                                                                                  San Pedro                                                                       52970
-03WME200728TM1 20250217 000111420 001114201 001021748 000000000 000000000 000039701 000006352 000000000 001114201 0011142014460038489200768464598******3210001000000-00011420110 2024122920241229BAE630FEFF644FFFA04AA6C063A4FAE2                  
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+03WME200728TM1 20250320 000126094 001260944 001114201 000000000 000086503 000086503 000027680 000000000 001260944 0012609444460038489200768464598******3210001000000-00026094410 2025012920250129BAE630FEFF644FFFA04AA6C063A4FAE2                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
 05002
 02Luis Xavier                   Chapa                         Gonzalez                                                                                                                                                                  San Pedro                                                                       52105
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******4231000000000 0000000000  20241229202412292E8230E720E24F7BACA1567F52E3BE32                  
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******4231000000000 0000000000  20250129202501292E8230E720E24F7BACA1567F52E3BE32                  
 05000
 02Luis Alfonso                  Othon Walldez                                                                                                                                                                                           San Pedro                                                                       82157
-03WME200728TM1 20250217 000095753 000957530 001492217 000960313 000000000 000000000 000000000 001495000 000957530 0009575304460038489200768464598******4209001500000 00054247010 20241229202412294E18B04D448546159438CCDA6750B687                  
-0415/01/2025PAGO A TARJETA                                                                                                       000000000-001495000
-0416/01/2025COMPRA ORIENTAL LEONES                                                                                               000000000 000170000
-0417/01/2025COMPRA DEPOS SIERRA MADRE GAL                                                                                        000000000 000046900
-0417/01/2025COMPRA DEPOS SIERRA MADRE GAL                                                                                        000000000 000105100
-0418/01/2025COMPRA HEB PUERTA DE HIERRO                                                                                          000000000 000058034
-0418/01/2025COMPRA 7 ELEVEN CUMBR SN AGUS                                                                                        000000000 000005350
-0418/01/2025COMPRA CHEESECAKE PT VALLE RV                                                                                        000000000 000201410
-0418/01/2025COMPRA ALDO PUNTO VALLE                                                                                              000000000 000046980
-0419/01/2025COMPRA OMA MTY PREPAGO                                                                                               000000000 000006000
-0419/01/2025COMPRA REST EL UNICORNIO AZUL                                                                                        000000000 000096600
-0419/01/2025COMPRA CSAM PORTAL DE CUMBRES                                                                                        000000000 000039312
-0419/01/2025COMPRA GAS ORSAN                                                                                                     000000000 000030000
-0419/01/2025COMPRA FARM GUAD SUC 797                                                                                             000000000 000003905
-0420/01/2025COMPRA TDA KIR XIGNUX                                                                                                000000000 000010900
-0424/01/2025COMPRA CAPITAN WINGS                                                                                                 000000000 000084040
-0426/01/2025COMPRA HEB PUERTA DE HIERRO                                                                                          000000000 000055782
-05016
+03WME200728TM1 20250320 000142149 001421485 000957530 001464655 000000000 000000000 000000000 001000700 001421485 0014214854460038489200768464598******4209001500000 00007851510 20250129202501294E18B04D448546159438CCDA6750B687                  
+0401/02/2025COMPRA SFMTA TRANSIT TVM                                                                                         USD        000001600 000032971
+0402/02/2025COMPRA ALCATRAZ CITY CRUISES                                                                                     USD        000002325 000047911
+0402/02/2025COMPRA ALCATRAZ CITY CRUISES                                                                                     USD        000000325 000006697
+0402/02/2025COMPRA BOUDIN BAKERY, BAKERS                                                                                     USD        000001417 000029200
+0402/02/2025COMPRA THE IRISH BANK BAR & RE                                                                                   USD        000008620 000177631
+0404/02/2025COMPRA TOD INSUM EMPAN M TOWE                                                                                        000000000 000025400
+0406/02/2025COMPRA OXXO LAS TORRES                                                                                               000000000 000012550
+0406/02/2025COMPRA DEPOS SIERRA MADRE VAL                                                                                        000000000 000025000
+0407/02/2025COMPRA TELCEL SENDERO LINCOLN                                                                                        000000000 000040800
+0407/02/2025COMPRA SORIANA228 SEN LINCOLN                                                                                        000000000 000029301
+0407/02/2025PAGO A TARJETA                                                                                                       000000000-000420000
+0408/02/2025COMPRA CAPITAN WINGS                                                                                                 000000000 000146630
+0409/02/2025COMPRA GAS NO REELECCION                                                                                             000000000 000030000
+0409/02/2025COMPRA 7 ELEVEN CUMBR SN AGUS                                                                                        000000000 000008900
+0410/02/2025COMPRA OXXO LAS TORRES                                                                                               000000000 000002200
+0411/02/2025COMPRA HEB PUERTA DE HIERRO                                                                                          000000000 000039970
+0411/02/2025COMPRA PETRUM COLON                                                                                                  000000000 000101748
+0411/02/2025COMPRA HEB PUERTA DE HIERRO                                                                                          000000000 000008900
+0412/02/2025COMPRA SUBWAY66655                                                                                                   000000000 000012000
+0413/02/2025COMPRA 7 ELEVEN CUMBR SN AGUS                                                                                        000000000 000011250
+0413/02/2025PAGO A TARJETA                                                                                                       000000000-000000500
+0413/02/2025PAGO A TARJETA                                                                                                       000000000-000000700
+0414/02/2025PAGO A TARJETA                                                                                                       000000000-000000500
+0414/02/2025COMPRA FRESITAS LEONES 2                                                                                             000000000 000009100
+0414/02/2025COMPRA POINTMP*DONMACHETON                                                                                           000000000 000030000
+0414/02/2025COMPRA MERPAGO*LACANDELAFT                                                                                           000000000 000025500
+0414/02/2025COMPRA MERPAGO*LACANDELAFT                                                                                           000000000 000009000
+0414/02/2025COMPRA 7 ELEVEN CUMBR SN AGUS                                                                                        000000000 000008900
+0414/02/2025PAGO A TARJETA                                                                                                       000000000-000350000
+0415/02/2025COMPRA TELCEL CUMBRES                                                                                                000000000 000172500
+0415/02/2025COMPRA STARBUCKS OCAM CNER DT                                                                                        000000000 000030000
+0415/02/2025COMPRA LOBBY GALERIAS                                                                                                000000000 000004700
+0415/02/2025COMPRA 7 ELEVEN CUMBR SN AGUS                                                                                        000000000 000005050
+0415/02/2025COMPRA DEPOR CIRCULO MERCANTI                                                                                        000000000 000005000
+0415/02/2025COMPRA LOBBY GALERIAS                                                                                                000000000 000017400
+0416/02/2025COMPRA SORIANA228 SEN LINCOLN                                                                                        000000000 000004635
+0417/02/2025COMPRA PETRUM COLON                                                                                                  000000000 000106467
+0417/02/2025PAGO A TARJETA                                                                                                       000000000-000019000
+0422/02/2025COMPRA YOGUFRUT                                                                                                      000000000 000023200
+0422/02/2025COMPRA 7 ELEVEN CUMBR SN AGUS                                                                                        000000000 000005450
+0430/01/2025COMPRA HEB PUERTA DE HIERRO                                                                                          000000000 000149451
+0431/01/2025PAGO A TARJETA                                                                                                       000000000-000210000
+0431/01/2025COMPRA BOUDIN, UNION SQUARE M                                                                                    USD        000003386 000069243
+05043
 02Hector de jesus               rivera                        ochoa                                                                                                                                                                     San Pedro                                                                       66269
-03WME200728TM1 20250217 000178159 001781594 002656072 003781594 000000000 000000000 000000000 004656072 001781594 0017815944460038489200768464598******2599005000000 00321840610 202412292024122977EC4F9BA6D244959AED59A40446F3A4                  
-0401/01/2025COMPRA WWW.DAZN.COM                                                                                                  000000000 000050000
-0404/01/2025COMPRA SAM S GOMEZ MORIN                                                                                             000000000 000122760
-0404/01/2025COMPRA FARM SIMI2110                                                                                                 000000000 000112601
-0404/01/2025COMPRA ZARA HOME SN PEDRO MTY                                                                                        000000000 000070300
-0404/01/2025COMPRA BZPAYMX*GRAN BARRA ROB                                                                                        000000000 000358225
-0405/01/2025COMPRA TULOTERO MEXICO CP                                                                                            000000000 000030000
-0406/01/2025PAGO A TARJETA                                                                                                       000000000-002656072
-0407/01/2025COMPRA REST DIXIE METROPOLITA                                                                                        000000000 000115575
-0407/01/2025COMPRA 7 ELEVEN T 1988                                                                                               000000000 000008500
-0408/01/2025COMPRA F AHORRO MTBR LAS BRI                                                                                         000000000 000071300
-0410/01/2025COMPRA DOMINOS CAMP SALT                                                                                             000000000 000036900
-0411/01/2025COMPRA FRESH MARKET SPATRICIO                                                                                        000000000 000071500
-0411/01/2025COMPRA SIMI EULALIO2                                                                                                 000000000 000047700
-0411/01/2025COMPRA OFFICEMAX SAN AGUSTIN                                                                                         000000000 000125840
-0411/01/2025COMPRA AREMA                                                                                                         000000000 000135900
-0412/01/2025COMPRA SORIANA 576 VALLE OTE                                                                                         000000000 000036930
-0413/01/2025COMPRA 7 ELEVEN GOMEZ MORIN                                                                                          000000000 000002550
-0413/01/2025COMPRA FARM SIMI2110                                                                                                 000000000 000014175
-0414/01/2025COMPRA GAS LADERAS DEL MIRADO                                                                                        000000000 000156147
-0416/01/2025PAGO A TARJETA                                                                                                       000000000-002000000
-0418/01/2025COMPRA 7 ELEVEN T 1742                                                                                               000000000 000013750
-0418/01/2025COMPRA HEB VALLE ORIENTE                                                                                             000000000 000517654
-0419/01/2025COMPRA 7 ELEVEN CMINO MIRAD                                                                                          000000000 000012800
-0420/01/2025COMPRA ORSAN DEL NORTE EST 33                                                                                        000000000 000123768
-0423/01/2025COMPRA TULOTERO MEXICO                                                                                               000000000 000030000
-0424/01/2025COMPRA OXXOAPASCO SLF                                                                                                000000000 000012800
-0425/01/2025COMPRA OXXOCAMINO AL MIRADOR                                                                                         000000000 000011400
-0425/01/2025COMPRA HEB VALLE ORIENTE                                                                                             000000000 000089090
-0429/12/2024COMPRA ELECTRONICS PARTS OUTLE                                                                                   USD        000004211 000084876
-0429/12/2024COMPRA EXXON CORNER MARKET #3                                                                                    USD        000005588 000112686
-0429/12/2024COMPRA MCDONALD'S F25592                                                                                         USD        000003003 000060558
-0429/12/2024COMPRA CIRCLE K #2741831                                                                                         USD        000005116 000103693
-0429/12/2024COMPRA TARGET        00024679                                                                                    USD        000019836 000400006
-0429/12/2024COMPRA CTLP*Apple Photo Booth                                                                                    USD        000001000 000020156
-0429/12/2024COMPRA HEB VALLE ORIENTE                                                                                             000000000 000204600
-0429/12/2024COMPRA TST* WETZEL'S PRETZELS                                                                                    USD        000001181 000023804
-0430/12/2024COMPRA FARM SIMI2110                                                                                                 000000000 000056850
-0430/12/2024COMPRA EFEVOOP*THE BRITISH PU                                                                                        000000000 000328210
-0430/12/2024COMPRA 7 ELEVEN T 1901                                                                                               000000000 000006000
-0431/12/2024COMPRA OXXO DEL LAGO                                                                                                 000000000 000001990
-05040
+03WME200728TM1 20250320 000371845 003718446 001781594 006036852 000000000 000000000 000000000 004100000 003718446 0037184464460038489200768464598******2599005000000 00128155410 202501292025012977EC4F9BA6D244959AED59A40446F3A4                  
+0405/02/2025COMPRA IAH CN CIBO EXPRESS C9                                                                                    USD        000003326 000067940
+0405/02/2025COMPRA DUANE READE #21261                                                                                        USD        000000999 000020616
+0405/02/2025COMPRA TST* LANGAN'S                                                                                             USD        000015931 000328757
+0406/02/2025COMPRA TAVERN ON THE GREEN                                                                                       USD        000015337 000316499
+0406/02/2025COMPRA TARGET        00034116                                                                                    USD        000001738 000035866
+0406/02/2025COMPRA MTA*METROCARD MACHINE                                                                                     USD        000000325 000006707
+0406/02/2025COMPRA MMs New York                                                                                              USD        000003913 000080265
+0406/02/2025COMPRA Lids 6300                                                                                                 USD        000003499 000071773
+0406/02/2025COMPRA O'DONOGHUES RESTAURANT                                                                                    USD        000016316 000334682
+0406/02/2025COMPRA SQ *CARLO'S BAKERY BROA                                                                                   USD        000003544 000073135
+0406/02/2025COMPRA SQ *TOPVIEW SIGHTSEEING                                                                                   USD        000019000 000392090
+0406/02/2025COMPRA SQ *TOPVIEW SIGHTSEEING                                                                                   USD        000019000 000392090
+0406/02/2025COMPRA METROPOLITAN MUSEUM ART                                                                                   USD        000002800 000057782
+0407/02/2025COMPRA CAFE UN DEUX TROIS                                                                                        USD        000004763 000097701
+0407/02/2025COMPRA SP SAVE THE DUCK                                                                                          USD        000004799 000098439
+0407/02/2025COMPRA TST* CASA D'ANGELO                                                                                        USD        000017667 000362394
+0407/02/2025PAGO A TARJETA                                                                                                       000000000-001100000
+0407/02/2025COMPRA AUNTIE ANNES NY 325                                                                                       USD        000001414 000029005
+0407/02/2025COMPRA THE LONG ROOM                                                                                             USD        000004302 000088411
+0407/02/2025COMPRA O'DONOGHUES RESTAURANT                                                                                    USD        000027408 000563267
+0408/02/2025COMPRA SQ *DICKSON'S FARMSTAND                                                                                   USD        000005488 000112785
+0408/02/2025COMPRA SQ *THEATRE REFRESHMENT                                                                                   USD        000003894 000080026
+0408/02/2025COMPRA SQ *DICKSON'S FARMSTAND                                                                                   USD        000001252 000025730
+0409/02/2025COMPRA IPARK MTY INTERRED                                                                                            000000000 000140000
+0410/02/2025COMPRA 7 ELEVEN PEDRO RMZ Y F                                                                                        000000000 000018200
+0410/02/2025COMPRA TULOTERO MEXICO                                                                                               000000000 000035000
+0410/02/2025COMPRA ORSAN DEL NORTE EST 33                                                                                        000000000 000167267
+0414/02/2025PAGO A TARJETA                                                                                                       000000000-003000000
+0415/02/2025COMPRA CLIP MX*SERVGRANBARR                                                                                          000000000 000379385
+0415/02/2025COMPRA SYMA AUTOSHAMPOO 4                                                                                            000000000 000020000
+0421/02/2025COMPRA OXXO GAS ALFAREROS                                                                                            000000000 000132466
+0421/02/2025COMPRA HEB VALLE ORIENTE                                                                                             000000000 000303233
+0421/02/2025COMPRA CINEMEX FASHION DRIVE                                                                                         000000000 000048200
+0422/02/2025COMPRA BPK*FARMACIA SIMILARE9                                                                                        000000000 000057050
+0422/02/2025COMPRA FOGO DE CHAO MONTERREY                                                                                        000000000 000294400
+0422/02/2025COMPRA TOKS ESFERA MTY                                                                                               000000000 000122245
+0424/02/2025COMPRA XBLASTER LAS TORRES                                                                                           000000000 000277500
+0425/02/2025COMPRA OXXO ALIANZA                                                                                                  000000000 000018400
+0426/02/2025DEVOLUCIÓN PAGO A TARJETA                                                                                            000000000 000103900
+0426/02/2025COMPRA OXXO LOS PINOS                                                                                                000000000 000004450
+0429/01/2025COMPRA HEB VALLE ORIENTE                                                                                             000000000 000159096
+0429/01/2025COMPRA 7 ELEVEN T 1712                                                                                               000000000 000002800
+0430/01/2025COMPRA BAIT                                                                                                          000000000 000012000
+0431/01/2025COMPRA CINEMEX FASHION DRIVE                                                                                         000000000 000054900
+0431/01/2025COMPRA STR*CINEMEX COM                                                                                               000000000 000041200
+0431/01/2025COMPRA CINEMEX FASHION DRIVE                                                                                         000000000 000009200
+05046
 02Carlos                        Kalifa                        Ruibal                                                                                                                                                                    San Pedro                                                                            
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******4617004000000 0040000000  2024122920241229678AAD7D3CFB447682237A7CC020D11F                  
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******4617004000000 0040000000  2025012920250129678AAD7D3CFB447682237A7CC020D11F                  
 05000
 02Ana Leticia                   Corona                                                                                                                                                                                                  San Pedro                                                                            
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******9577006000000 0060000000  20241229202412292F4E1016895341A8B31F46D56BD531B5                  
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******9577006000000 0060000000  20250129202501292F4E1016895341A8B31F46D56BD531B5                  
 05000
 02Jesus Israel                  Flores                        Gloria                                                                                                                                                                    San Pedro                                                                       64049
-03WME200728TM1 20250217 000043814 000438140-000003762 000441902 000000000 000000000 000000000 000000000 000438140 0004381404460038489200768464598******8048000500000 00006186010 2024122920241229DEAC6AB85A024916ADE6B89315F73563                  
-0401/01/2025COMPRA ABTS MERCADIA PLAZAS                                                                                          000000000 000012100
-0401/01/2025COMPRA BOG EXP PASEOS ALAMEDA                                                                                        000000000 000014190
-0402/01/2025COMPRA COSM HEAVEN                                                                                                   000000000 000046800
-0403/01/2025COMPRA LIVERPOOL MONTERREY CU                                                                                        000000000 000059900
-0404/01/2025COMPRA POINTMP*REYBUCHON                                                                                             000000000 000029600
-0404/01/2025COMPRA OXXO LEONES DIRECTA                                                                                           000000000 000005850
-0406/01/2025COMPRA COSTCO MONTERREY 2                                                                                            000000000 000040303
-0415/01/2025COMPRA BOG EXP PASEOS ALAMEDA                                                                                        000000000 000019900
-0416/01/2025COMPRA OXXOROBLEDO                                                                                                   000000000 000007550
-0420/01/2025COMPRA FARM SIMI GARCIA 20                                                                                           000000000 000027600
-0421/01/2025COMPRA BOD VILLA GARCIA                                                                                              000000000 000019267
-0425/01/2025COMPRA BURGER KING SEN LIN                                                                                           000000000 000021800
-0429/12/2024COMPRA D LOCAL*SHEIN MX                                                                                              000000000 000038442
-0429/12/2024COMPRA MAPSI IV                                                                                                      000000000 000070700
-0431/12/2024COMPRA OXXOROBLEDO                                                                                                   000000000 000027900
-05015
+03WME200728TM1 20250320 000009112 000091120 000438140 000092980 000000000 000000000 000000000 000440000 000091120 0000911204460038489200768464598******8048000500000 00040888010 2025012920250129DEAC6AB85A024916ADE6B89315F73563                  
+0417/02/2025PAGO A TARJETA                                                                                                       000000000-000440000
+0425/02/2025COMPRA OXXO GAS PASEO DE LINC                                                                                        000000000 000040000
+0429/01/2025COMPRA BODEGA HEROES LINCOLN                                                                                         000000000 000052980
+05003
 02PAOLA ALEJANDRA               RODRIGUEZ                     ALANIS                                                                                                                                                                    San Pedro                                                                       67300
-03WME200728TM1 20250217 000025000 000198624 000145221 000000000 000000000 000006037 000000966 000000000 000198624 0001986244460038489200768464598******1273002000000 0018013768  20241229202412292BE286B79E2440859E44E0C61D657713                  
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+03WME200728TM1 20250320 000026379 000263788 000198624 000000000 000016176 000016176 000005176 000000000 000263788 0002637884460038489200768464598******1273002000000 00173621210 20250129202501292BE286B79E2440859E44E0C61D657713                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
 05002
 02Daniela                       Lopez                         Flores                                                                                                                                                                    San Pedro                                                                            
-03WME200728TM1 20250217 000000000 000000000-000000100 000000000 000000000 000000000 000000000 000000000-000000100-0000001004460038489200768464598******5105002700000 0027001000  20241229202412297D6D28878A124FFF80D92D91977EA1D8                  
+03WME200728TM1 20250320 000000000 000000000-000000100 000000000 000000000 000000000 000000000 000000000-000000100-0000001004460038489200768464598******5105002700000 0027001000  20250129202501297D6D28878A124FFF80D92D91977EA1D8                  
 05000
 02Luis Xavier                   Chapa                         Gonzalez                                                                                                                                                                  San Pedro                                                                            
-03WME200728TM1 20250217 000454488 004544878 001917744 002414499 000000000 000143306 000022929 000000000 004544878 0045448784460038489200768464598******1172005000000 00045512210 2024122920241229D678F4282A20424C90D9E0CE98668BEC                  
-0401/01/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000007000
-0415/01/2025COMPRA STR*UBER EATS                                                                                                 000000000 000062700
-0416/01/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000039900
-0416/01/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000185900
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000044565
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-0418/01/2025COMPRA STR*UBER EATS                                                                                                 000000000 000031879
-0418/01/2025COMPRA STR*UBER EATS                                                                                                 000000000 000069900
-0422/01/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000045500
-0424/01/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000046500
-0424/01/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000055700
-0429/12/2024COMPRA STRIPE *UBER EATS                                                                                             000000000 000115100
-0429/12/2024COMPRA STARBUCKS MAGMA TOWERS                                                                                        000000000 000009900
-0429/12/2024COMPRA STR*UBER EATS                                                                                                 000000000 000078700
-0429/12/2024COMPRA STR*UBER EATS                                                                                                 000000000 000093150
-0429/12/2024COMPRA STR*UBER EATS                                                                                                 000000000 000087200
-0429/12/2024COMPRA STRIPE *UBER EATS                                                                                             000000000 000067100
-0429/12/2024COMPRA EFEVOOP*THE BRITISH PU                                                                                        000000000 000258875
-0430/12/2024COMPRA STR*UBER EATS                                                                                                 000000000 000197000
-0430/12/2024RETIRO EN ATM                                                                                                        000000000 000803132
-0430/12/2024COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000048188
-0430/12/2024IVA DE COMISIÓN                                                                                                      000000000 000007710
-0431/12/2024COMPRA STR*UBER EATS                                                                                                 000000000 000058900
-05024
+03WME200728TM1 20250320 000523956 005239562 004544878 000429300 000000000 000188779 000030205 000000000 005239562 0052395624460038489200768464598******1172005000000-00023956210 2025012920250129D678F4282A20424C90D9E0CE98668BEC                  
+0401/02/2025COMPRA STR*UBER EATS                                                                                                 000000000 000082300
+0401/02/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000007000
+0402/02/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000103100
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0429/01/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000095700
+0430/01/2025COMPRA STR*UBER EATS                                                                                                 000000000 000092300
+0431/01/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000048900
+05008
 02Marcelo                       Garcia                                                                                                                                                                                                  San Pedro                                                                            
-03WME200728TM1 20250217 000018800 000018800-000002000 000020800 000000000 000000000 000000000 000000000 000018800 0000188004460038489200768464598******6640004500000 0044812001  2024122920241229A93CE76118EA4470A5B294AC6D7E244C                  
-0424/01/2025COMPRA STR*PLAYTOMIC IO 70BC4                                                                                        000000000 000020800
-05001
+03WME200728TM1 20250320 000056250 000120364 000018800 000052000 000000000 000002728 000000436 000000000 000120364 0001203644460038489200768464598******6640004500000 0043796363  2025012920250129A93CE76118EA4470A5B294AC6D7E244C                  
+0402/02/2025COMPRA STR*PLAYTOMIC IO 4C857                                                                                        000000000 000026000
+0405/02/2025COMPRA STR*PLAYTOMIC IO C5A23                                                                                        000000000 000026000
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+05004
 02Ana Leticia                   Corona                        Cavazos                                                                                                                                                                   San Pedro                                                                            
-03WME200728TM1 20250217 000083808 000838080 000725932 000000000 000056679 000056679 000018138 000000000 000838080 0008380804460038489200768464598******2577006000000 00516192010 20241229202412292EA3A328E29944C5A15EA9B8311FC96F                  
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+03WME200728TM1 20250320 000096022 000960221 000838080 000000000 000065294 000065294 000020894 000000000 000960221 0009602214460038489200768464598******2577006000000 00503977910 20250129202501292EA3A328E29944C5A15EA9B8311FC96F                  
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
 05002
 02CARLOS GABRIEL                ORTEGA                        BARAJAS                                                                                                                                                                   San Pedro                                                                       9920 
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******0592001000000 0010000000  2024122920241229F2A403E9895E4671B44D5F1BFA099E5B                  
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******0592001000000 0010000000  2025012920250129F2A403E9895E4671B44D5F1BFA099E5B                  
 05000
 02JORGE                         LOPEZ                         HUERTA                                                                                                                                                                    San Pedro                                                                       64780
-03WME200728TM1 20250217 000071828 000718283 000181341 000718342 000000000 000000000 000000000 000181400 000718283 0007182834460038489200768464598******4482001000000 00028171710 20241229202412297AB24E6DF55748848D3BD1A51135FFED                  
-0415/01/2025PAGO A TARJETA                                                                                                       000000000-000181400
-0417/01/2025COMPRA REST LOS FRESNOS SP                                                                                           000000000 000182275
-0417/01/2025COMPRA OXXO GAS BOULEVARD ACA                                                                                        000000000 000152935
-0418/01/2025COMPRA DULCERIA LA CANICA                                                                                            000000000 000374972
-0429/12/2024COMPRA REA AUTOPISTA GPE                                                                                             000000000 000008160
-05005
+03WME200728TM1 20250320 000065340 000653397 000718283 000299631 000000000 000030589 000004894 000400000 000653397 0006533974460038489200768464598******4482001000000 00034660310 20250129202501297AB24E6DF55748848D3BD1A51135FFED                  
+0415/02/2025PAGO A TARJETA                                                                                                       000000000-000100000
+0417/02/2025COMPRA OXXO GAS BOULEVARD ACA                                                                                        000000000 000100000
+0420/02/2025COMPRA OXXO GAS BOULEVARD ACA                                                                                        000000000 000108231
+0428/02/2025PAGO A TARJETA                                                                                                       000000000-000300000
+0429/01/2025COMPRA FIDENCIO BOTANERO VALL                                                                                        000000000 000060000
+0429/01/2025COMPRA 7 ELEVEN BLVD ACAPULCO                                                                                        000000000 000014400
+0431/01/2025COMPRA I WASH AUTO LAVADO                                                                                            000000000 000017000
+05007
 02LUIS XAVIER                   CHAPA                         GONZALEZ                                                                                                                                                                  San Pedro                                                                            
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******3851001500000 0015000000  2024122920241229988678C4CA354F738CABED0D6103BB57                  
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******3851001500000 0015000000  2025012920250129988678C4CA354F738CABED0D6103BB57                  
 05000
 02ESTEPHANY DANIELA             MURILLO                       GOMEZ                                                                                                                                                                     San Pedro                                                                       67180
-03WME200728TM1 20250217 000019976 000199762 000146310 000000000 000000000 000006079 000000973 000000000 000199762 0001997624460038489200768464598******0149001000000 00080023811 20241229202412293AFDB9F2AA0648A08C15B8F03166BEFF                  
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+03WME200728TM1 20250320 000026503 000265028 000199762 000000000 000016264 000016264 000005204 000000000 000265028 0002650284460038489200768464598******0149001000000 00073497210 20250129202501293AFDB9F2AA0648A08C15B8F03166BEFF                  
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
 05002
 02Sergio                        Salcedo                       Gonzalez                                                                                                                                                                  San Pedro                                                                       66470
-03WME200728TM1 20250217 000014514 000145137 000094015 000000000 000000000 000004071 000000651 000000000 000145137 0001451374460038489200768464598******3755001000000 00085486310 2024122920241229720EBF4CE14848E594B3404219E245E5                  
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+03WME200728TM1 20250320 000019854 000198536 000145137 000000000 000000000 000006034 000000965 000000000 000198536 0001985364460038489200768464598******3755001000000 00080146410 2025012920250129720EBF4CE14848E594B3404219E245E5                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
 05002
 02EDGAR GIOVANNI                MANRIQUEZ                     CASTRO                                                                                                                                                                    San Pedro                                                                       66365
-03WME200728TM1 20250217 000112781 001127809 001196571 000000000 000000000 000044171 000007067 000120000 001127809 0011278094460038489200768464598******8638001000000-00012780910 2024122920241229DA01331C27DA435E85BC169E77EDB8F0                  
-0417/01/2025PAGO A TARJETA                                                                                                       000000000-000120000
+03WME200728TM1 20250320 000106284 001062841 001127809 000000000 000000000 000041218 000006595 000112781 001062841 0010628414460038489200768464598******8638001000000-00006284110 2025012920250129DA01331C27DA435E85BC169E77EDB8F0                  
+0414/02/2025PAGO A TARJETA                                                                                                       000000000-000112781
 05001
 02Bryton Cesar                  Arguelles Aguil               Aguilar                                                                                                                                                                   San Pedro                                                                       67170
-03WME200728TM1 20250217 000389630 003896299 003685188 000000000 000000000 000141992 000022719 000000000 003896299 0038962994460038489200768464598******6468003500000-00039629910 20241229202412291BF97CF738EB461F80E02879BEC214B4                  
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+03WME200728TM1 20250320 000411681 004116814 003896299 000000000 000000000 000150099 000024016 000000000 004116814 0041168144460038489200768464598******6468003500000-00061681410 20250129202501291BF97CF738EB461F80E02879BEC214B4                  
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
 05002
 02Roberto                       Requena                       Hernandez                                                                                                                                                                 San Pedro                                                                       64106
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******3712001000000 0010000000  2024122920241229925F4BF744584DD79488F9BEB05EBE2B                  
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******3712001000000 0010000000  2025012920250129925F4BF744584DD79488F9BEB05EBE2B                  
 05000
 02ALDO                          GOMEZ                         PEREZ                                                                                                                                                                     San Pedro                                                                       89605
-03WME200728TM1 20250217 000019692 000196917 000143587 000000000 000000000 000005974 000000956 000000000 000196917 0001969174460038489200768464598******7219001000000 00080308310 2024122920241229DD593E848E8348E8B63366E349711647                  
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+03WME200728TM1 20250320 000026193 000261929 000196917 000000000 000016045 000016045 000005134 000000000 000261929 0002619294460038489200768464598******7219001000000 00073807110 2025012920250129DD593E848E8348E8B63366E349711647                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
 05002
 02Rafael Enrique                Rodriguez                     Caicedo                                                                                                                                                                   San Pedro                                                                       64960
-03WME200728TM1 20250217 000014645 000146445 000095267 000000000 000000000 000004119 000000659 000000000 000146445 0001464454460038489200768464598******5972001000000 00085355510 2024122920241229A7A5DE31A54A438798CF59EE9B3EB9EE                  
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+03WME200728TM1 20250320 000019990 000199902 000146445 000000000 000000000 000006084 000000973 000000000 000199902 0001999024460038489200768464598******5972001000000 00080009811 2025012920250129A7A5DE31A54A438798CF59EE9B3EB9EE                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
 05002
 02Sergio Alejandro              Flores                        Colorado                                                                                                                                                                  San Pedro                                                                       64580
-03WME200728TM1 20250217 000019976 000199762 000146310 000000000 000000000 000006079 000000973 000000000 000199762 0001997624460038489200768464598******1258001000000 00080023811 2024122920241229C0E9EB33CAD847B6B0140D442B82D9D9                  
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+03WME200728TM1 20250320 000026503 000265028 000199762 000000000 000016264 000016264 000005204 000000000 000265028 0002650284460038489200768464598******1258001000000 00073497210 2025012920250129C0E9EB33CAD847B6B0140D442B82D9D9                  
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
 05002
 02LEONEL                        ROQUE                         CORTES                                                                                                                                                                    San Pedro                                                                       67132
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******6485001000000 0010000000  202412292024122933C383E70136448DBC01251E3A473F1C                  
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******6485001000000 0010000000  202501292025012933C383E70136448DBC01251E3A473F1C                  
 05000
 02ILAN HAZIEL                   ARELLANO                      ZAVALA                                                                                                                                                                    San Pedro                                                                       66612
-03WME200728TM1 20250217 000000000 000000000 000522168 000209731 000000000 000000000 000000000 000739899-000008000-0000080004460038489200768464598******8242001000000 0010080000  202412292024122940E1492D97EB44FAAB9B0BEDBAE47914                  
-0405/01/2025COMPRA 7 ELEVEN T 1940                                                                                               000000000 000007700
-0405/01/2025COMPRA MTA METROPLEX                                                                                                 000000000 000018771
-0405/01/2025COMPRA MISC SIMILARES BALCONE                                                                                        000000000 000008800
-0405/01/2025COMPRA MISC SIMILARES BALCONE                                                                                        000000000 000010000
-0406/01/2025COMPRA 7 ELEVEN T1880                                                                                                000000000 000005000
-0414/01/2025PAGO A TARJETA                                                                                                       000000000-000739899
-0429/12/2024COMPRA CINEPOLIS APP TICKETS                                                                                         000000000 000027400
-0429/12/2024COMPRA CINEPOLIS APP ALIMENTO                                                                                        000000000 000041300
-0429/12/2024COMPRA ENERGETICOS ENPECO                                                                                            000000000 000090760
-05009
+03WME200728TM1 20250320 000000000 000000000-000008000 000000000 000000000 000000000 000000000 000000000-000008000-0000080004460038489200768464598******8242001000000 0010080000  202501292025012940E1492D97EB44FAAB9B0BEDBAE47914                  
+05000
 02JOSE AMARO                    GARZA                         CRUZ                                                                                                                                                                      San Pedro                                                                       77507
-03WME200728TM1 20250217 000014645 000146445 000095267 000000000 000000000 000004119 000000659 000000000 000146445 0001464454460038489200768464598******5811001000000 00085355510 2024122920241229130DE552E629461C890C3B92FEBA3E25                  
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+03WME200728TM1 20250320 000019990 000199902 000146445 000000000 000000000 000006084 000000973 000000000 000199902 0001999024460038489200768464598******5811001000000 00080009811 2025012920250129130DE552E629461C890C3B92FEBA3E25                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
 05002
 02ANTONIO                       SARRE                         MERCADO                       Av. Manuel Gomez Morin                            #325                                    Col. Valle De Santa                               San Pedro Garza                                                                 66268
-03WME200728TM1 20250217 000716210 007162095 003062523 003817950 000000000 000202778 000032444 000000000 007162095 0071620954460038489200768464598******1561010000000 00283790510 202412292024122902586966D6294E46AD9933665F997498                  
-0408/01/2025COMPRA COSTCO WHSE #1108                                                                                         USD        000119074 002427001
-0409/01/2025COMPRA TOTALWINE 538 POS                                                                                         USD        000068243 001390949
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-05004
+03WME200728TM1 20250320 000192219 001922193 007162095 001922193 000000000 000000000 000000000 007162095 001922193 0019221934460038489200768464598******1561010000000 00807780710 202501292025012902586966D6294E46AD9933665F997498                  
+0412/02/2025PAGO A TARJETA                                                                                                       000000000-007162095
+0420/02/2025COMPRA SAMSCLUB #8250                                                                                            USD        000018398 000374828
+0420/02/2025COMPRA COSTCO WHSE #1108                                                                                         USD        000075774 001547365
+05003
 02YADIRA IVONE                  LAGUNA GALVAN                 GALVAN                        San fernando 208                                                                          Mitras norte                                      San Pedro                                                                       64430
-03WME200728TM1 20250217 000143240 001432399 001271629 000000000 000098595 000098595 000031550 000000000 001432399 0014323994460038489200768464598******1200001000000-00043239910 20241229202412297499A5F2679945948F71D22DD0CD7455                  
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+03WME200728TM1 20250320 000160749 001607494 001432399 000000000 000110944 000110944 000035502 000000000 001607494 0016074944460038489200768464598******1200001000000-00060749410 20250129202501297499A5F2679945948F71D22DD0CD7455                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
 05002
 02Carla                         De la Fuente                  Monroy                        Prol los soles                                    200                                     Valle Ote                                         San Pedro                                                                       66269
-03WME200728TM1 20250217 000150556 001505556 001396412 000000000 000000000 000054090 000008654 000000000 001505556 0015055564460038489200768464598******2053004000000 00249444410 202412292024122936619AD1824A4AAA83AA2712000DD2B1                  
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-05002
+03WME200728TM1 20250320 000145769 001457691 001505556 000049155 000000000 000054293 000008687 000160000 001457691 0014576914460038489200768464598******2053004000000 00254230910 202501292025012936619AD1824A4AAA83AA2712000DD2B1                  
+0404/02/2025PAGO A TARJETA                                                                                                       000000000-000100000
+0415/02/2025PAGO A TARJETA                                                                                                       000000000-000060000
+0418/02/2025COMPRA DLO*TDA TEMU                                                                                                  000000000 000049155
+05003
 02Roosevelt Herbey              de la Garza                   Montes                                                                                                                                                                    San Pedro                                                                       67184
-03WME200728TM1 20250217 000025000 000146445 000095267 000000000 000000000 000004119 000000659 000000000 000146445 0001464454460038489200768464598******5857002000000 0018535556  2024122920241229F6FE2D9BF7DF4DA88B7B51D77E54CBFB                  
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+03WME200728TM1 20250320 000025000 000199902 000146445 000000000 000000000 000006084 000000973 000000000 000199902 0001999024460038489200768464598******5857002000000 0018000988  2025012920250129F6FE2D9BF7DF4DA88B7B51D77E54CBFB                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
 05002
 02ANA GABRIELA                  JIMENEZ                       LARA                          Tamesis 143                                                                               Cumbre Allegro                                    Monterrey                                                                       64345
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******4881002000000 0020000000  2024122920241229B6039DDC0EF64C62A3214E377D307C0B                  
-05000
+03WME200728TM1 20250320 000025000 000046400 000000000 000000000 000040000 000000000 000006400 000000000 000046400 0000464004460038489200768464598******4881002000000 0019536002  2025012920250129B6039DDC0EF64C62A3214E377D307C0B                  
+0415/02/2025IVA Comision Anual Titular                                                                                           000000000 000006400
+0415/02/2025Comision Anual Titular                                                                                               000000000 000040000
+05002
 02uno                           CANO                          MACIAS                        Calzada Arenal 405 Edificio 1 Depto 304                                                   Arenal Tepepan                                    San Pedro                                                                       14610
-03WME200728TM1 20250217 001610006 016100060 015323268 000000000 000040000 000589648 000100744 000000000 016100060 0161000604460038489200768464598******1149015000000-00110006010 20241229202412296BA4EEB6C6A84BDFA3EAD362C59744E5                  
-0417/01/2025IVA Comision Anual Titular                                                                                           000000000 000006400
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025Comision Anual Titular                                                                                               000000000 000040000
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-05004
+03WME200728TM1 20250320 001758206 017582056 016100060 000000000 001237583 001237583 000396026 000000000 017582056 0175820564460038489200768464598******1149015000000-00258205610 20250129202501296BA4EEB6C6A84BDFA3EAD362C59744E5                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+05002
 02Humberto                      Garza                         Trevino                       PROLONGACION LOS SOLES                            8522140                                 LOS SOLES                                         SAN PEDRO                                                                       66221
-03WME200728TM1 20250217 000012500 000046400 000000000 000000000 000040000 000000000 000006400 000000000 000046400 0000464004460038489200768464598******9381001000000 0009536004  20241229202412299C8E7025187C42EFB0B4633EB4617980                  
-0406/01/2025Comision Anual Titular                                                                                               000000000 000040000
-0406/01/2025IVA Comision Anual Titular                                                                                           000000000 000006400
+03WME200728TM1 20250320 000012500 000095401 000046400 000000000 000000000 000002242 000000359 000000000 000095401 0000954014460038489200768464598******9381001000000 0009045998  20250129202501299C8E7025187C42EFB0B4633EB4617980                  
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
 05002
 02SADAAM JOSUE ORIHUEL          ORIHUELA                      ROMERO                        Santa Martha 61                                                                           San Andrés Ocotlán                                Calimaya                                                                        52220
-03WME200728TM1 20250217 000064864 000648642 000551992 000000000 000043319 000043319 000013862 000000000 000648642 0006486424460038489200768464598******6285000500000-00014864210 2024122920241229A67A07243E8E4B32A983E9C0437B8C83                  
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-05002
+03WME200728TM1 20250320 000080417 000804171 000648642 000000000 000094077 000054077 000023704 000000000 000804171 0008041714460038489200768464598******6285000500000-00030417110 2025012920250129A67A07243E8E4B32A983E9C0437B8C83                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+0431/01/2025Comision Anual Titular                                                                                               000000000 000040000
+0431/01/2025IVA Comision Anual Titular                                                                                           000000000 000006400
+05004
 02Hector Arturo                 Razo                          N                             Prol Solers                                       200                                     Valle                                             SPGG                                                                            66269
-03WME200728TM1 20250217 001781040 017810396 002734782 017810396 000000000 000000000 000000000 002734782 017810396 0178103964460038489200768464598******8566020000000 00218960410 202412292024122970AF46292868423FAC822719D3BBA1BD                  
-0403/01/2025COMPRA MARLEY INDUSTRIAL                                                                                             000000000 001809600
-0406/01/2025COMPRA MARLEY INDUSTRIAL                                                                                             000000000 000324800
-0408/01/2025COMPRA CABLE NETWORKS                                                                                                000000000 000170520
-0412/01/2025COMPRA GRUPO INTEN WEB                                                                                               000000000 000052500
-0413/01/2025COMPRA IMPULSORA IND MTY NET                                                                                         000000000 000035055
-0417/01/2025PAGO A TARJETA                                                                                                       000000000-002734782
-0418/01/2025COMPRA MAYOREO ELECTRICO DE M                                                                                        000000000 000059717
-0418/01/2025COMPRA HOME DEPOT GARZA GARCI                                                                                        000000000 000060200
-0424/01/2025COMPRA PAYU LA*GOOGLE MX CR                                                                                          000000000 000700000
-0425/01/2025COMPRA CENTRO DE CONEC OBSERV                                                                                        000000000 008523433
-0425/01/2025COMPRA BRICOS CEDIS                                                                                                  000000000 000030131
-0427/01/2025COMPRA MARLEY INDUSTRIAL                                                                                             000000000 002547200
-0427/01/2025COMPRA MARLEY INDUSTRIAL                                                                                             000000000 002000000
-0429/12/2024COMPRA COM SYSCOM MONTERREY                                                                                          000000000 000033037
-0429/12/2024COMPRA MAYOREO ELECTRICO DE M                                                                                        000000000 001018424
-0429/12/2024COMPRA BRICOS CEDIS                                                                                                  000000000 000067297
-0431/12/2024COMPRA BRICOS CEDIS                                                                                                  000000000 000248182
-0431/12/2024COMPRA EL JEFE FERRETERIAS                                                                                           000000000 000130300
-05018
+03WME200728TM1 20250320 000250000 001245356 017810396 001245356 000000000 000000000 000000000 017810396 001245356 0012453564460038489200768464598******8566020000000 0187546445  202501292025012970AF46292868423FAC822719D3BBA1BD                  
+0404/02/2025COMPRA NEUBOX INTERNET CIB                                                                                           000000000 000134536
+0404/02/2025COMPRA COM SYSCOM MONTERREY                                                                                          000000000 000025606
+0405/02/2025COMPRA AUTOZONE 7223                                                                                                 000000000 000021800
+0406/02/2025COMPRA CLIP MX*BOUTFUSSLI                                                                                            000000000 000614440
+0408/02/2025COMPRA AUTOZONE 7343                                                                                                 000000000 000073900
+0408/02/2025COMPRA REFAC JOMAR INT GP2                                                                                           000000000 000035904
+0417/02/2025PAGO A TARJETA                                                                                                       000000000-017810396
+0429/01/2025COMPRA FERRE ELIZONDO HNOS                                                                                           000000000 000281480
+0429/01/2025COMPRA 1342 ESCOBEDO                                                                                                 000000000 000057690
+05009
 02DANIEL ANTONIO                CANO                          MACIAS                        Calzada Arenal 405 Edificio 1 Depto 304                                                   Arenal Tepepan                                    Tlalpan                                                                         14610
-03WME200728TM1 20250217 000000000 000000000-000034218 000000000 000000000 000000000 000000000 000000000-000034218-0000342184460038489200768464598******9119001000000 0010342180  20241229202412295DE40F7620AC4E16A8707D800FABE1DD                  
-05000
-02dos                                                                                                                                                                                                                                   San Pedro                                                                            
-03WME200728TM1 20250217 000000000 000000000-010828350 007587877 000040000 000000000 000006400 000000000-003194073-0031940734460038489200768464598******3781015000000 0181940730  2024122920241229DA55443230744DF2BB2264F2856E8784                  
-0417/01/2025IVA Comision Anual Titular                                                                                           000000000 000006400
-0417/01/2025Comision Anual Titular                                                                                               000000000 000040000
-0419/01/2025COMPRA SATS Norway AS                                                                                                       000092200 000168464
-0422/01/2025COMPRA JACOBS MAJORSTUEN                                                                                                    001629049 002982051
-0423/01/2025COMPRA TRYVANN SKISENTER AS                                                                                                 000579800 001060077
-0423/01/2025COMPRA WIRELESS 1                                                                                                           000154000 000281566
-0424/01/2025COMPRA TRYVANN SKISENTER AS                                                                                                 000363900 000660538
-0425/01/2025COMPRA BYGDOEY ALLE 3 D                                                                                                     000047520 000086202
-0425/01/2025COMPRA BYGDOEY ALLE 3 D                                                                                                     000052320 000094909
-0425/01/2025COMPRA Rituals Cosmetics Ente                                                                                               000088100 000159814
-0425/01/2025COMPRA BYGDOEY ALLE 3 D                                                                                                     000166320 000301706
-0425/01/2025COMPRA BYGDOEY ALLE 3 D                                                                                                     000023760 000043101
-0425/01/2025COMPRA BYGDOEY ALLE 3 D                                                                                                     000198480 000360045
-0425/01/2025COMPRA SAKE                                                                                                                 000214500 000389105
-0425/01/2025COMPRA VITUSAPOTEK OSLO CITY                                                                                                000329700 000598079
-0425/01/2025COMPRA KID OSLO CITY AVD 172                                                                                                000140530 000254923
-0425/01/2025COMPRA AMERICAN BURGERS                                                                                                     000007500 000013605
-0425/01/2025COMPRA AMERICAN BURGERS                                                                                                     000012000 000021768
-0425/01/2025COMPRA AMERICAN BURGERS                                                                                                     000061700 000111924
-05019
-02tres                                                                                                                                                                                                                                  San Pedro                                                                            
-03WME200728TM1 20250217 000914942 009149417 003728279 005124089 000040000 000176077 000034572 000000000 009149417 0091494174460038489200768464598******2603015000000 00585058310 20241229202412293E10B8EED4D64283AD726EAAFED6E01E                  
-0417/01/2025IVA Comision Anual Titular                                                                                           000000000 000006400
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025Comision Anual Titular                                                                                               000000000 000040000
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-0422/01/2025COMPRA NYX*MallingCoDriftAS                                                                                                 000002000 000003661
-0422/01/2025COMPRA NORMAL OSLO BYPORTEN NO                                                                                              000081100 000148457
-0422/01/2025COMPRA ENKLERE LIV                                                                                                          000834740 001528031
-0422/01/2025COMPRA DRESSMANN XL M06                                                                                                     001690472 003094489
-0422/01/2025COMPRA BambusByportenNoodles                                                                                                000190900 000349451
-05009
-02A                             A                             A                             A                                                                                         A                                                 A                                                                               0    
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******7199001500000 0015000000  20241229202412296AD20412995C48F7A96571E4B9E97FFD                  
-05000
-02JORGE ANDRES                  JIMENEZ                       YANEZ                         De la loma 110 cumbres 2 sector                                                           Las Cumbres                                       Monterrey                                                                       64610
-03WME200728TM1 20250217 000000000 000000000-000169094 000000000 000040000 000000000 000006400 000000000-000122694-0001226944460038489200768464598******7004001500000 0016226940  2024122920241229B9ACEBD747B84054B73B1611BFD5C072                  
-0419/01/2025Comision Anual Titular                                                                                               000000000 000040000
-0419/01/2025IVA Comision Anual Titular                                                                                           000000000 000006400
+03WME200728TM1 20250320 000012182 000012182-000034218 000000000 000040000 000000000 000006400 000000000 000012182 0000121824460038489200768464598******9119001000000 0009878181  20250129202501295DE40F7620AC4E16A8707D800FABE1DD                  
+0414/02/2025IVA Comision Anual Titular                                                                                           000000000 000006400
+0414/02/2025Comision Anual Titular                                                                                               000000000 000040000
 05002
+02dos                                                                                                                                                                                                                                   San Pedro                                                                            
+03WME200728TM1 20250320 001499256 014992558-003194073 018186631 000000000 000000000 000000000 000000000 014992558 0149925584460038489200768464598******3781015000000 00000744210 2025012920250129DA55443230744DF2BB2264F2856E8784                  
+0402/02/2025COMPRA HOLMENKOLLEN RESTAURANT                                                                                              000420000 000769155
+0403/02/2025COMPRA SATS Fagerborg                                                                                                       000104160 000190750
+0404/02/2025COMPRA HOEYER SJOELYST                                                                                                      001331720 002424158
+0404/02/2025COMPRA JOE  THE JUICE NORGE AS                                                                                              000098700 000179666
+0404/02/2025COMPRA JOE  THE JUICE NORGE AS                                                                                              000005600 000010194
+0405/02/2025COMPRA XXL NOR 301 NAF                                                                                                      000140925 000256641
+0405/02/2025COMPRA ANTON SPORT OSL                                                                                                      000219900 000400464
+0405/02/2025COMPRA DRESSMANN XL M06                                                                                                     000704500 001282979
+0405/02/2025COMPRA ANTON SPORT OSL                                                                                                      000399800 000728084
+0405/02/2025COMPRA ENKLERE LIV                                                                                                          000285400 000519748
+0406/02/2025COMPRA KIWI 315 KVAERNERBYEN                                                                                                000088494 000163499
+0407/02/2025COMPRA JUSTISEN                                                                                                             000076130 000140207
+0407/02/2025COMPRA JUSTISEN                                                                                                             000014720 000027110
+0407/02/2025COMPRA DELI DE LUCA UNIVERSITE                                                                                              000003300 000006078
+0407/02/2025COMPRA JUSTISEN                                                                                                             000020000 000036834
+0407/02/2025COMPRA JUSTISEN                                                                                                             000038060 000070094
+0407/02/2025COMPRA JUSTISEN                                                                                                             000036330 000066908
+0407/02/2025COMPRA DELI DE LUCA UNIVERSITE                                                                                              000011800 000021732
+0407/02/2025COMPRA DELI DE LUCA UNIVERSITE                                                                                              000010200 000018785
+0407/02/2025COMPRA JUSTISEN                                                                                                             000039790 000073281
+0407/02/2025COMPRA JUSTISEN                                                                                                             000039790 000073281
+0408/02/2025COMPRA TRYVANN SKISENTER AS                                                                                                 000696000 001281812
+0408/02/2025COMPRA TRYVANNWYLLER AS                                                                                                     000179100 000329846
+0408/02/2025COMPRA Louise Restaurant  Ba                                                                                                000477020 000878520
+0408/02/2025COMPRA JOKER PARKVEIEN OSLO                                                                                                 000096306 000177365
+0409/02/2025COMPRA NILA                                                                                                                 000548300 001009795
+0410/02/2025COMPRA SATS Fagerborg                                                                                                       000071000 000130760
+0411/02/2025COMPRA HELSEKOSTEN GUNERIUS AS                                                                                              000324500 000599584
+0412/02/2025COMPRA JOKER PARKVEIEN OSLO                                                                                                 000088668 000163516
+0413/02/2025COMPRA 7-ELEVEN LANGS VEI 7588                                                                                              000021900 000040222
+0416/02/2025COMPRA 2592 EXTRA GOL                                                                                                       000025890 000047486
+0416/02/2025COMPRA NYX*VENDCOMATICAS                                                                                                    000022000 000040352
+0416/02/2025COMPRA MING BEIJING HOUSE CHEN                                                                                              000153900 000282277
+0416/02/2025COMPRA NYX*VENDCOMATICAS                                                                                                    000022000 000040352
+0417/02/2025COMPRA SHELL HEMSEDAL                                                                                                       000003900 000007153
+0417/02/2025COMPRA HOTELL FYRI CP HOTELL                                                                                                000029500 000054108
+0417/02/2025COMPRA SKISTAR NORGE H                                                                                                      000216300 000396729
+0417/02/2025COMPRA SHELL HEMSEDAL                                                                                                       000009200 000016874
+0417/02/2025COMPRA HOTELL FYRI CP HOTELL                                                                                                000139000 000254948
+0418/02/2025COMPRA JACOBS MAJORSTUEN                                                                                                    000760000 001392445
+0429/01/2025COMPRA JOKER PARKVEIEN OSLO                                                                                                 000124351 000230738
+0429/01/2025COMPRA KIWI 316 FROGNERVEIEN                                                                                                000062995 000115463
+0430/01/2025COMPRA ELPALACIOHIERRO COM                                                                                           000000000 003110336
+0430/01/2025COMPRA SATS Fagerborg                                                                                                       000069000 000126302
+05044
+02tres                                                                                                                                                                                                                                  San Pedro                                                                            
+03WME200728TM1 20250320 001001211 010012106 009149417 000000000 000703697 000703697 000225184 000000000 010012106 0100121064460038489200768464598******2603015000000 00498789410 20250129202501293E10B8EED4D64283AD726EAAFED6E01E                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+05002
+02A                             A                             A                             A                                                                                         A                                                 A                                                                               0    
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******7199001500000 0015000000  20250129202501296AD20412995C48F7A96571E4B9E97FFD                  
+05000
 02JORGE ANDRES                  JIMENEZ                       YANEZ                         De la loma 110 cumbres 2 sector                                                           Las Cumbres                                       Monterrey                                                                       64610
-03WME200728TM1 20250217 000000000 000000000-000004000 000000000 000000000 000000000 000000000 000000000-000004000-0000040004460038489200768464598******7562003500000 0035040000  2024122920241229F9AF3D6A885E4BBC8770C9C85C27085C                  
+03WME200728TM1 20250320 000000000 000000000-000122694 000000000 000000000 000000000 000000000 000000000-000122694-0001226944460038489200768464598******7004001500000 0016226940  2025012920250129B9ACEBD747B84054B73B1611BFD5C072                  
 05000
+02JORGE ANDRES                  JIMENEZ                       YANEZ                         De la loma 110 cumbres 2 sector                                                           Las Cumbres                                       Monterrey                                                                       64610
+03WME200728TM1 20250320 000042400 000042400-000004000 000000000 000040000 000000000 000006400 000000000 000042400 0000424004460038489200768464598******7562003500000 0034576001  2025012920250129F9AF3D6A885E4BBC8770C9C85C27085C                  
+0403/02/2025Comision Anual Titular                                                                                               000000000 000040000
+0403/02/2025IVA Comision Anual Titular                                                                                           000000000 000006400
+05002
 02URIEL ESAU                    LOPEZ                         PEREZ                         Armadillo 109                                                                             Valles de Guadalupe                               San Pedro                                                                       67195
-03WME200728TM1 20250217 000000000 000000000-000000201 000000000 000000000 000000000 000000000 000000000-000000201-0000002014460038489200768464598******6924001000000 0010002010  202412292024122949F11503F1E2463B899F8DEE3A35241D                  
-05000
+03WME200728TM1 20250320 000012500 000046199-000000201 000000000 000040000 000000000 000006400 000000000 000046199 0000461994460038489200768464598******6924001000000 0009538014  202501292025012949F11503F1E2463B899F8DEE3A35241D                  
+0408/02/2025Comision Anual Titular                                                                                               000000000 000040000
+0408/02/2025IVA Comision Anual Titular                                                                                           000000000 000006400
+05002
 02Jaime Alejandro               Borrego Aleman                ALEMAN                        San Patricio                                      222                                     Valle de San Andrés                               San Pedro                                                                       66612
-03WME200728TM1 20250217 000094554 000945544 000954225 000991319 000000000 000000000 000000000 001000000 000945544 0009455444460038489200768464598******3441001000000 00005445610 2024122920241229F6676AE89803420986A22B76FFBE353F                  
-0409/01/2025PAGO A TARJETA                                                                                                       000000000-001000000
-0409/01/2025COMPRA FERRETERIA LA PALMA                                                                                           000000000 000084800
-0409/01/2025COMPRA ELIZONDO SUC CONCORDI                                                                                         000000000 000126900
-0410/01/2025COMPRA PETRO 7 ANDROMEDA                                                                                             000000000 000092641
-0410/01/2025COMPRA FERRETERIA LA PALMA                                                                                           000000000 000194500
-0414/01/2025COMPRA PAPE TONY MTY CONCORD                                                                                         000000000 000043033
-0415/01/2025COMPRA GRUPO PAPELERO LH                                                                                             000000000 000125410
-0415/01/2025COMPRA PAPE TONY MTY CONCORD                                                                                         000000000 000269083
-0417/01/2025COMPRA CARNES VALDEZ                                                                                                 000000000 000054952
-05009
+03WME200728TM1 20250320 000104449 001044490 000945544 001052546 000040000 000000000 000006400 001000000 001044490 0010444904460038489200768464598******3441001000000-00004449010 2025012920250129F6676AE89803420986A22B76FFBE353F                  
+0401/02/2025COMPRA PAPE TONY MTY CONCORD                                                                                         000000000 000575219
+0401/02/2025PAGO A TARJETA                                                                                                       000000000-001000000
+0401/02/2025COMPRA GRUPO PAPELERO LH                                                                                             000000000 000128140
+0404/02/2025COMPRA GRUPO PAPELERO LH                                                                                             000000000 000047880
+0404/02/2025COMPRA PAPE TONY MTY CONCORD                                                                                         000000000 000191307
+0410/02/2025COMPRA ADOSA CE ANAHUAC                                                                                              000000000 000110000
+0417/02/2025Comision Anual Titular                                                                                               000000000 000040000
+0417/02/2025IVA Comision Anual Titular                                                                                           000000000 000006400
+05008
 02Jaime Alejandro               Borrego                       Aleman                        Prol Los Soles                                    200                                     Del Valle ote                                     spgg                                                                            66269
-03WME200728TM1 20250217 000000000 000000000-000000015 000000000 000000000 000000000 000000000 000000000-000000015-0000000154460038489200768464598******4767000100000 0001000150  20241229202412299A34733D84674D3DBBBBD90469CF56B5                  
-05000
+03WME200728TM1 20250320 000004639 000046385-000000015 000000000 000040000 000000000 000006400 000000000 000046385 0000463854460038489200768464598******4767000100000 00005361510 20250129202501299A34733D84674D3DBBBBD90469CF56B5                  
+0422/02/2025IVA Comision Anual Titular                                                                                           000000000 000006400
+0422/02/2025Comision Anual Titular                                                                                               000000000 000040000
+05002
 02Carolina                      Pinheiro                      Arvizu                        Prol Los Soles                                    200                                     Valle Ote                                         SPGG                                                                            66266
-03WME200728TM1 20250217 000062189 000621889 000659640 000000000 000000000 000024353 000003896 000066000 000621889 0006218894460038489200768464598******3578001000000 00037811110 2024122920241229DF5B9F8414304F618BE33F5462A131A5                  
-0417/01/2025PAGO A TARJETA                                                                                                       000000000-000066000
+03WME200728TM1 20250320 000058570 000585696 000621889 000000000 000000000 000022420 000003587 000062200 000585696 0005856964460038489200768464598******3578001000000 00041430410 2025012920250129DF5B9F8414304F618BE33F5462A131A5                  
+0410/02/2025PAGO A TARJETA                                                                                                       000000000-000062200
 05001
 02EIGENTUM DESARROLLOS                                                                      Paseo de los Alamos                               5316                                    Residencial del Pase                              Monterrey                                                                       64920
-03WME200728TM1 20250217 000128701 001287006 001138130 000000000 000088341 000088341 000028270 000000000 001287006 0012870064460038489200768464598******3125001000000-00028700610 2024122920241229FA250AB4DBC947CBB2718E5BA19FEBFC                  
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+03WME200728TM1 20250320 000144915 001449146 001287006 000000000 000099776 000099776 000031928 000000000 001449146 0014491464460038489200768464598******3125001000000-00044914610 2025012920250129FA250AB4DBC947CBB2718E5BA19FEBFC                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
 05002
 02CARLOS ALBERTO                PRUNEDA                       GARCIA                        AV. PASEO DEL ACUEDUCTO                           430                                     SATELITE ACUEDUCTO                                MONTERREY                                                                       64968
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******2838001000000 0010000000  2024122920241229B5EDBAA3667C4A728453E902D2E8C4A7                  
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******2838001000000 0010000000  2025012920250129B5EDBAA3667C4A728453E902D2E8C4A7                  
 05000
 02Julia                         Velazquez                     Gutierrez                     segunda privada cascada de agua azul              128                                     real de juriquilla                                queretaro                                                                       76222
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******6447001435980 0014359800  20241229202412292EFC204541864B219EAE72C16BB15260                  
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******6447001435980 0014359800  20250129202501292EFC204541864B219EAE72C16BB15260                  
 05000
 02Luis Alejandro                Amezquita                     Canseco                       Av Revolucion                                     1115                                    Merced Gomez                                      Benito Juarez                                                                   03930
-03WME200728TM1 20250217 000288752 002887518 002607703 000000000 000201220 000201220 000064390 000000000 002887518 0028875184460038489200768464598******7390002000000-00088751810 20241229202412299F8BA106FDC244BE8C25213C8E37FEB6                  
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+03WME200728TM1 20250320 000255064 002550638 002887518 000000000 000000000 000097517 000015603 000450000 002550638 0025506384460038489200768464598******7390002000000-00055063810 20250129202501299F8BA106FDC244BE8C25213C8E37FEB6                  
+0415/02/2025PAGO A TARJETA                                                                                                       000000000-000150000
+0431/01/2025PAGO A TARJETA                                                                                                       000000000-000300000
 05002
 02Antonio                       Sarre                         Salinas                       Gomez Morin                                       325                                     Valle De Santa Engra                              San Pedro                                                                       66269
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******6006005000000 0050000000  2024122920241229C46B35A16F8644858A0E02F60D7CF630                  
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******6006005000000 0050000000  2025012920250129C46B35A16F8644858A0E02F60D7CF630                  
 05000
 02EDUARDO                       JIMENEZ                       RAMIREZ                       Mercado poniente veinticuatro de agosto           0166                                    Narvarte Poniente                                 Benito Juarez                                                                   3020 
-03WME200728TM1 20250217 000056235 000562349 000093983 000400000 000000000 000018936 000003030 000000000 000562349 0005623494460038489200768464598******1376000500000-00006234910 2024122920241229BFA8AF36A2F4444BBA062B2211A7D7EB                  
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0429/12/2024COMPRA ESTCN DE SERV                                                                                                 000000000 000400000
-05003
+03WME200728TM1 20250320 000049182 000491822 000562349 000471100 000000000 000018942 000003031 000610000 000491822 0004918224460038489200768464598******1376000500000 00000817810 2025012920250129BFA8AF36A2F4444BBA062B2211A7D7EB                  
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0422/02/2025COMPRA MERPAGO*CHIMBITA                                                                                              000000000 000071100
+0422/02/2025PAGO A TARJETA                                                                                                       000000000-000610000
+0424/02/2025COMPRA ESTCN DE SERV                                                                                                 000000000 000200000
+0424/02/2025COMPRA ESTCN DE SERV                                                                                                 000000000 000200000
+05006
 02EDUARDO ALONSO                CHAVEZ                        SMITH                         Avenida Alfonso Reyes                                                                     Vía Cordillera                                    Santa Catarina                                                                  66196
-03WME200728TM1 20250217 000153288 000607630 000409056 002699805 000126180 000126180 000040378 002694000 000607630 0006076304460038489200768464598******0490002500000 0018923704  2024122920241229DADD624A296049658C5A798BA77DB7FF                  
-0407/01/2025COMPRA INST SIERRA MADRE                                                                                             000000000 001402500
-0407/01/2025COMPRA SORIANA545 VALLE PTE                                                                                          000000000 000018810
-0414/01/2025COMPRA INTL MMCE FED SN PEDRO                                                                                        000000000 000318595
-0414/01/2025PAGO A TARJETA                                                                                                       000000000-000159000
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0423/01/2025PAGO A TARJETA                                                                                                       000000000-002535000
-0424/01/2025COMPRA INST SIERRA MADRE                                                                                             000000000 000260000
-0429/12/2024COMPRA KINDER MDV                                                                                                    000000000 000680000
-0430/12/2024COMPRA EBW*GIRO AGREGADOR                                                                                            000000000 000019900
-05010
+03WME200728TM1 20250320 000168043 001680432 000607630 003704940 000000000 000067527 000010804 002710469 001680432 0016804324460038489200768464598******0490002500000 00081956810 2025012920250129DADD624A296049658C5A798BA77DB7FF                  
+0404/02/2025PAGO A TARJETA                                                                                                       000000000-000046400
+0404/02/2025PAGO A TARJETA                                                                                                       000000000-000030000
+0404/02/2025PAGO A TARJETA                                                                                                       000000000-000146369
+0404/02/2025COMPRA KINDER MDV                                                                                                    000000000 000680000
+0408/02/2025COMPRA MARISCOS PERIHUETE                                                                                            000000000 000138000
+0411/02/2025COMPRA SORIANA545 VALLE PTE                                                                                          000000000 000014590
+0418/02/2025COMPRA SORIANA545 VALLE PTE                                                                                          000000000 000018800
+0419/02/2025COMPRA SORIANA545 VALLE PTE                                                                                          000000000 000028650
+0420/02/2025PAGO A TARJETA                                                                                                       000000000-002487700
+0426/02/2025COMPRA INST SIERRA MADRE                                                                                             000000000 001402500
+0429/01/2025COMPRA INST SIERRA MADRE                                                                                             000000000 001402500
+0430/01/2025COMPRA EBW*GIRO AGREGADOR                                                                                            000000000 000019900
+05012
 02SERGIO OSWALDO                SALCEDO                       GONZALEZ                      Lago Ontario 412                                                                          Hacienda los Angeles                              San Nicolás de                                                                  66477
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******5560001000000 0010000000  20241229202412290D91DAA4B6A8471582B332793CB35927                  
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******5560001000000 0010000000  20250129202501290D91DAA4B6A8471582B332793CB35927                  
 05000
 02RODOLFO                       ORDORICA                      SEPULVEDA                     Lomas del Vergel 139                                                                      Lomas del Vergel                                  Monterrey                                                                       64988
-03WME200728TM1 20250217 000053841 000538412 000327810 000610602 000000000 000000000 000000000 000400000 000538412 0005384124460038489200768464598******0857002000000 00146158810 20241229202412293FC173BF2E49451FBDCA8BFC0E105A84                  
-0406/01/2025COMPRA DOMINOS TITAN                                                                                                 000000000 000119200
-0409/01/2025COMPRA PMX*SERV DEL VLT 5419                                                                                         000000000 000109600
-0409/01/2025COMPRA DOMINOS TITAN                                                                                                 000000000 000029800
-0413/01/2025COMPRA DOMINOS TITAN                                                                                                 000000000 000104300
-0414/01/2025COMPRA DOMINOS TITAN                                                                                                 000000000 000104300
-0416/01/2025PAGO A TARJETA                                                                                                       000000000-000400000
-0420/01/2025COMPRA DOMINOS TITAN                                                                                                 000000000 000119200
-0430/12/2024COMPRA SUNOCO 0751646100                                                                                         USD        000001180 000024202
-05008
+03WME200728TM1 20250320 000093881 000938812 000538412 000940400 000000000 000000000 000000000 000540000 000938812 0009388124460038489200768464598******0857002000000 00106118810 20250129202501293FC173BF2E49451FBDCA8BFC0E105A84                  
+0404/02/2025COMPRA DOMINOS TITAN                                                                                                 000000000 000119200
+0411/02/2025PAGO A TARJETA                                                                                                       000000000-000540000
+0411/02/2025COMPRA DOMINOS TITAN                                                                                                 000000000 000149000
+0414/02/2025COMPRA DOMINOS TITAN                                                                                                 000000000 000074500
+0417/02/2025COMPRA DOMINOS TITAN                                                                                                 000000000 000119200
+0421/02/2025COMPRA DOMINOS TITAN                                                                                                 000000000 000128200
+0421/02/2025COMPRA YOLOPAG*VENDOMATIC                                                                                            000000000 000002000
+0424/02/2025COMPRA DOMINOS TITAN                                                                                                 000000000 000149000
+0426/02/2025COMPRA TH P VILLALTA                                                                                                 000000000 000017400
+0429/01/2025COMPRA DOMINOS TITAN                                                                                                 000000000 000148100
+0429/01/2025COMPRA DOMINOS TITAN                                                                                                 000000000 000033800
+05011
 02Nathan                        Karren                        Campos                        prol los soles                                    263                                     los soles                                         san pedro                                                                       66536
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******2082002000000 0020000000  2024122920241229AA4C23B031E74FD29628B8D277A974F1                  
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******2082002000000 0020000000  2025012920250129AA4C23B031E74FD29628B8D277A974F1                  
 05000
 02Felix                         Nader                         Nunez                         cincuenta y cinco avenida esq                     11                                      Adolfo lopez mateoz                               cozumel                                                                         77667
-03WME200728TM1 20250217 000045224 000452243 000481717 000000000 000000000 000017695 000002831 000050000 000452243 0004522434460038489200768464598******2636002000000 00154775710 2024122920241229D3ED75C74F3A4323AF7F043CE92FB18C                  
-0416/01/2025PAGO A TARJETA                                                                                                       000000000-000050000
+03WME200728TM1 20250320 000042146 000421456 000452243 000000000 000000000 000016563 000002650 000050000 000421456 0004214564460038489200768464598******2636002000000 00157854410 2025012920250129D3ED75C74F3A4323AF7F043CE92FB18C                  
+0416/02/2025PAGO A TARJETA                                                                                                       000000000-000050000
 05001
 02Tania                         Marcos                        Tafich                        Prolongacion Alfonso Reyes                        100-                                    Col Valle Poniente                                Santa Catarina                                                                  66196
-03WME200728TM1 20250217 000096974 000619244 000671959 001251864 000076742 000076742 000024558 001440000 000619244 0006192444460038489200768464598******3810001500000 0008807567  202412292024122942C73FD2F31B41758BEC581E7AA5CB1C                  
-0406/01/2025COMPRA HEB AARON SAENZ S D                                                                                           000000000 000172459
-0411/01/2025COMPRA MONEYPOOL CP                                                                                                  000000000 000049872
-0413/01/2025COMPRA HEB AARON SAENZ S D                                                                                           000000000 000225523
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0418/01/2025IVA DE COMISIÓN                                                                                                      000000000 000000510
-0418/01/2025COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000003184
-0418/01/2025RETIRO EN ATM                                                                                                        000000000 000053074
-0423/01/2025PAGO A TARJETA                                                                                                       000000000-001440000
-0424/01/2025COMPRA NAYAX1 *NAYAX CADENA C                                                                                        000000000 000006900
-0424/01/2025COMPRA NAYAX1 *NAYAX CADENA C                                                                                        000000000 000006900
-0424/01/2025COMPRA CHICKEN AND MORE                                                                                              000000000 000045838
-0424/01/2025COMPRA STOP AND FIX CENTER                                                                                           000000000 000123600
-0424/01/2025COMPRA BUSWALL*SWISSLAB VIA C                                                                                        000000000 000062800
-0425/01/2025COMPRA HEB AARON SAENZ S D                                                                                           000000000 000184029
-0429/12/2024COMPRA ZTL*MARKETINGANDPROMOT                                                                                        000000000 000048000
-0429/12/2024COMPRA BENAVIDES S14338 NARAN                                                                                        000000000 000016400
-0429/12/2024COMPRA HEB AARON SAENZ S D                                                                                           000000000 000252775
+03WME200728TM1 20250320 000056039 000560385 000619244 001547051 000000000 000025078 000004012 001635000 000560385 0005603854460038489200768464598******3810001500000 00093961510 202501292025012942C73FD2F31B41758BEC581E7AA5CB1C                  
+0403/02/2025COMPRA NAYAX1 *NAYAX CADENA C                                                                                        000000000 000008800
+0403/02/2025COMPRA HEB AARON SAENZ S D                                                                                           000000000 000114619
+0405/02/2025COMPRA SORIANA545 VALLE PTE                                                                                          000000000 000021000
+0405/02/2025COMPRA CHICKEN AND MORE                                                                                              000000000 000050994
+0405/02/2025COMPRA NAYAX1 *NAYAX CADENA C                                                                                        000000000 000004500
+0409/02/2025COMPRA HEB AARON SAENZ S D                                                                                           000000000 000144780
+0413/02/2025COMPRA CHICKEN AND MORE                                                                                              000000000 000061640
+0413/02/2025COMPRA GRAFIKSPOT                                                                                                    000000000 000012000
+0417/02/2025COMPRA HEB AARON SAENZ S D                                                                                           000000000 000112992
+0417/02/2025COMPRA SEGMONTERREYNYL3 MU                                                                                           000000000 000479659
+0417/02/2025PAGO A TARJETA                                                                                                       000000000-000135000
+0420/02/2025PAGO A TARJETA                                                                                                       000000000-001500000
+0421/02/2025COMPRA NAYAX1 *NAYAX CADENA C                                                                                        000000000 000017300
+0423/02/2025COMPRA HEB AARON SAENZ S D                                                                                           000000000 000152014
+0424/02/2025COMPRA MONEYPOOL CP                                                                                                  000000000 000010390
+0426/02/2025COMPRA ABTS DO TERRA                                                                                                 000000000 000253200
+0426/02/2025COMPRA CHICKEN AND MORE                                                                                              000000000 000097963
+0427/02/2025COMPRA NAYAX1 *NAYAX CADENA C                                                                                        000000000 000005200
 05018
 02Julia                         Velazquez                     Gutierrez                     2da privada cascada de agua azul 128                                                      Real de juriquilla                                Queretaro                                                                       76226
-03WME200728TM1 20250217 000186159 001861592 001665709 000000000 000128865 000128865 000041236 000000000 001861592 0018615924460038489200768464598******1593001075982-00078561010 20241229202412294F497AA7F32E465B9FFBADAEC91BB610                  
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+03WME200728TM1 20250320 000207493 002074929 001861592 000000000 000143911 000143911 000046052 000000000 002074929 0020749294460038489200768464598******1593001075982-00099894710 20250129202501294F497AA7F32E465B9FFBADAEC91BB610                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
 05002
 02Mauricio                      Femat                         de luna                       Bravo                                             36                                      San ignacio                                       todos los santo                                                                 23300
-03WME200728TM1 20250217 000000000 000000000-000006777 000000000 000000000 000000000 000000000 000000000-000006777-0000067774460038489200768464598******1659001000000 0010067770  2024122920241229DC1A4FA226D24D08A22029EF58D29FC1                  
+03WME200728TM1 20250320 000000000 000000000-000006777 000000000 000000000 000000000 000000000 000000000-000006777-0000067774460038489200768464598******1659001000000 0010067770  2025012920250129DC1A4FA226D24D08A22029EF58D29FC1                  
 05000
 02Cesar Raymundo                Villarreal                    Cantu                         Zuazua 112                                                                                Centro de Guadalupe                               Guadalupe NL                                                                    67100
-03WME200728TM1 20250217 000221142 002211420 002072170 000000000 000000000 000080043 000012807 000000000 002211420 0022114204460038489200768464598******2014002000000-00021142010 20241229202412290C29E10533D4426788D7326CD43F7462                  
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-05002
+03WME200728TM1 20250320 000207267 002072668 002211420 000000000 000000000 000078662 000012586 000230000 002072668 0020726684460038489200768464598******2014002000000-00007266810 20250129202501290C29E10533D4426788D7326CD43F7462                  
+0407/02/2025PAGO A TARJETA                                                                                                       000000000-000230000
+05001
 02Erik                          Boughton                      Garza                         Rio Mississipi                                    505                                     Del Valle                                         San Pedro Garza                                                                 66220
-03WME200728TM1 20250217 000621712 006217120 005831197 007162542 000000000 000000000 000000000 006776619 006217120 0062171204460038489200768464598******3848010000000 00378288010 20241229202412290F7E1148F46841FFA7B55C6158E38809                  
-0403/01/2025PAGO A TARJETA                                                                                                       000000000-001120000
-0410/01/2025PAGO A TARJETA                                                                                                       000000000-000169950
-0411/01/2025COMPRA TARGET        00008326                                                                                    USD        000004799 000099361
-0411/01/2025COMPRA COMFORT INNS                                                                                              USD        000010862 000224892
-0411/01/2025COMPRA POPEYES 14067                                                                                             USD        000002414 000049981
-0412/01/2025COMPRA CHEVRON 0074393                                                                                           USD        000000589 000012195
-0412/01/2025COMPRA WENDYS 74                                                                                                 USD        000001059 000021926
-0412/01/2025COMPRA WENDYS 74                                                                                                 USD        000005166 000106959
-0412/01/2025COMPRA H-E-B GAS #418                                                                                            USD        000005310 000109941
-0412/01/2025COMPRA HEB VALLE ORIENTE                                                                                             000000000 000092797
-0413/01/2025COMPRA OXXO GAS MORONES PRIET                                                                                        000000000 000175889
-0413/01/2025COMPRA OXXOLOMAS DE MONTEC                                                                                           000000000 000032150
-0414/01/2025COMPRA OXXO GAS LAS TORRES                                                                                           000000000 000132515
-0414/01/2025COMPRA COM RAP PLOG LC                                                                                               000000000 000039300
-0414/01/2025PAGO A TARJETA                                                                                                       000000000-000381500
-0415/01/2025COMPRA REST PAPALOTE                                                                                                 000000000 000170000
-0415/01/2025COMPRA SORIANA 576 VALLE OTE                                                                                         000000000 000424586
-0415/01/2025COMPRA SYMA AUTOSHAMPOO 4                                                                                            000000000 000020000
-0415/01/2025COMPRA OPLINEA*LASBOLUDASFUND                                                                                        000000000 000025000
-0416/01/2025COMPRA SORIANA 576 VALLE OTE                                                                                         000000000 000096024
-0416/01/2025PAGO A TARJETA                                                                                                       000000000-000169950
-0417/01/2025PAGO A TARJETA                                                                                                       000000000-000910000
-0417/01/2025PAGO A TARJETA                                                                                                       000000000-002549019
-0419/01/2025COMPRA ABC GAS                                                                                                       000000000 000117042
-0420/01/2025PAGO A TARJETA                                                                                                       000000000-000169950
-0420/01/2025PAGO A TARJETA                                                                                                       000000000-000169950
-0420/01/2025COMPRA WAL MART VALLE OTE                                                                                            000000000 000012200
-0420/01/2025COMPRA COSTCO MONTERREY                                                                                              000000000 000439379
-0420/01/2025COMPRA WAL MART VALLE OTE                                                                                            000000000 000108827
-0422/01/2025COMPRA NAM NAM LA IMPRENTA                                                                                           000000000 000100800
-0422/01/2025COMPRA PAQUETEXPRES MTY03 CDP                                                                                        000000000 000144534
-0422/01/2025COMPRA DR ALDO MARTINEZ                                                                                              000000000 000250000
-0422/01/2025COMPRA OFFICEMAX SAN AGUSTIN                                                                                         000000000 000100300
-0423/01/2025COMPRA CFEDD12E1B1973                                                                                                000000000 000419200
-0423/01/2025PAGO A TARJETA                                                                                                       000000000-000169950
-0423/01/2025PAGO A TARJETA                                                                                                       000000000-000169950
-0423/01/2025COMPRA STARBUCKS MM GARZA S                                                                                          000000000 000010400
-0423/01/2025COMPRA OXXOROBLE MTY                                                                                                 000000000 000008500
-0423/01/2025COMPRA STARBUCKS V OTE MTY                                                                                           000000000 000005700
-0424/01/2025COMPRA TSUJMI OAXACA                                                                                                 000000000 000012650
-0424/01/2025COMPRA QUEENDOM REST                                                                                                 000000000 000177215
-0424/01/2025PAGO A TARJETA                                                                                                       000000000-000208450
-0425/01/2025COMPRA OXXOARBOLEDA MTY                                                                                              000000000 000008700
-0425/01/2025COMPRA PASTELERIA LETY TORRES                                                                                        000000000 000038100
-0425/01/2025COMPRA ABC GAS                                                                                                       000000000 000135477
-0425/01/2025COMPRA CRAMOS TORRES                                                                                                 000000000 000060578
-0425/01/2025COMPRA SORIANA 576 VALLE OTE                                                                                         000000000 000102090
-0427/01/2025COMPRA DENTISTAS TERAN                                                                                               000000000 000345900
-0427/01/2025COMPRA REFA OPERADORA ZARI                                                                                           000000000 000030000
-0429/12/2024COMPRA SEGMONTERREYNYL3 MU                                                                                           000000000 001845434
-0429/12/2024COMPRA 7 ELEVEN ALFONSO REY A                                                                                        000000000 000007800
-0429/12/2024COMPRA OXXO ELIZONDO                                                                                                 000000000 000008000
-0429/12/2024COMPRA GAS CERRO LA SILLA                                                                                            000000000 000040000
-0429/12/2024COMPRA MERPAGO*SUSPENSIONES                                                                                          000000000 000613000
-0429/12/2024COMPRA OXXO GAS ALFAREROS                                                                                            000000000 000100000
-0429/12/2024COMPRA TH ALTEA PRETORICO                                                                                            000000000 000017200
-0430/12/2024PAGO A TARJETA                                                                                                       000000000-000434950
-0430/12/2024PAGO A TARJETA                                                                                                       000000000-000153000
-0430/12/2024COMPRA MARMAY SALON                                                                                                  000000000 000070000
-05059
+03WME200728TM1 20250320 000542316 005423156 006217120 006437486 000000000 000000000 000000000 007231450 005423156 0054231564460038489200768464598******3848010000000 00457684410 20250129202501290F7E1148F46841FFA7B55C6158E38809                  
+0405/02/2025PAGO A TARJETA                                                                                                       000000000-000340000
+0406/02/2025COMPRA CRAMOS TORRES                                                                                                 000000000 000309884
+0406/02/2025COMPRA SORIANA 576 VALLE OTE                                                                                         000000000 000028000
+0412/02/2025PAGO A TARJETA                                                                                                       000000000-006000000
+0412/02/2025COMPRA VASCONCELOS                                                                                                   000000000 000300700
+0412/02/2025COMPRA 7 ELEVEN PEDRO RMZ Y F                                                                                        000000000 000024450
+0412/02/2025COMPRA CITY MARKET MTY 419                                                                                           000000000 000123600
+0413/02/2025COMPRA OXXO AQUA                                                                                                     000000000 000047375
+0413/02/2025COMPRA BENAV 330451 TORRES                                                                                           000000000 000030900
+0413/02/2025PAGO A TARJETA                                                                                                       000000000-000169950
+0413/02/2025COMPRA FARM SIMILARES MTY 36                                                                                         000000000 000073300
+0414/02/2025COMPRA GAS CORTIJO DEL RIO                                                                                           000000000 000030000
+0414/02/2025COMPRA COMEDY REVOLUTION CON2                                                                                        000000000 000090000
+0414/02/2025COMPRA QUEENDOM REST                                                                                                 000000000 000066815
+0414/02/2025COMPRA CINEPOLIS DULCERIA                                                                                            000000000 000019500
+0414/02/2025COMPRA 10629 LEFTIES EFRA MTY                                                                                        000000000 000089800
+0414/02/2025COMPRA CINEPOLIS TAQUILLA                                                                                            000000000 000036200
+0414/02/2025COMPRA HM MX0024 ESFERA CITY                                                                                         000000000 000072320
+0415/02/2025COMPRA COMEDY REVOLUTION CON4                                                                                        000000000 000142025
+0417/02/2025COMPRA STRONG PACKS                                                                                                  000000000 000686500
+0417/02/2025COMPRA SORIANA 576 VALLE OTE                                                                                         000000000 000131402
+0418/02/2025COMPRA CINEPOLIS DULCERIA                                                                                            000000000 000020400
+0418/02/2025COMPRA OXXO GAS ALFAREROS                                                                                            000000000 000175526
+0418/02/2025COMPRA KLEUR HAIR & MAKEUP                                                                                           000000000 000070000
+0418/02/2025COMPRA SORIANA 576 VALLE OTE                                                                                         000000000 000001400
+0418/02/2025COMPRA CINEPOLIS TAQUILLA                                                                                            000000000 000010000
+0418/02/2025COMPRA SORIANA 576 VALLE OTE                                                                                         000000000 000006950
+0418/02/2025COMPRA SORIANA 576 VALLE OTE                                                                                         000000000 000041766
+0418/02/2025PAGO A TARJETA                                                                                                       000000000-000211600
+0419/02/2025COMPRA INTER 24 HRS                                                                                                  000000000 000011800
+0420/02/2025COMPRA ZTL*CLAUDIANOYOLA                                                                                             000000000 000029000
+0420/02/2025COMPRA MARMAY SALON                                                                                                  000000000 000197000
+0420/02/2025PAGO A TARJETA                                                                                                       000000000-000170000
+0420/02/2025COMPRA WAL MART VALLE OTE                                                                                            000000000 000057400
+0421/02/2025COMPRA OXXO GAS ALFAREROS                                                                                            000000000 000132014
+0421/02/2025COMPRA OXXO REAL SAN AGUSTIN                                                                                         000000000 000010050
+0421/02/2025COMPRA REST PAPALOTE                                                                                                 000000000 000080000
+0424/02/2025PAGO A TARJETA                                                                                                       000000000-000169950
+0425/02/2025PAGO A TARJETA                                                                                                       000000000-000169950
+0429/01/2025COMPRA JOHN HAMS BURGER J V O                                                                                        000000000 000060950
+0429/01/2025COMPRA OXXOLOMAS DE MONTEC                                                                                           000000000 000023300
+0429/01/2025COMPRA SORIANA 576 VALLE OTE                                                                                         000000000 000252161
+0429/01/2025COMPRA Hotel at Booking.com                                                                                          000000000 000687101
+0430/01/2025COMPRA AT&T                                                                                                          000000000 000147478
+0430/01/2025COMPRA OXXO GAS ALFAREROS                                                                                            000000000 000169185
+0430/01/2025COMPRA AT&T                                                                                                          000000000 000105800
+0431/01/2025COMPRA SEGMONTERREYNYL3 MU                                                                                           000000000 001845434
+05047
 02Adrian Aminadab               Roman                         y Roman                       sendero de las privanzas                          317                                     privanzas                                         San padro garza                                                                 66278
-03WME200728TM1 20250217 000048429 000484286 000401083 000000000 000031727 000031727 000010152 000000000 000484286 0004842864460038489200768464598******1392001000000 00051571410 2024122920241229FD58D0DD47644924B1C5BAA5A622BA04                  
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+03WME200728TM1 20250320 000057490 000574903 000484286 000000000 000038118 000038118 000012198 000000000 000574903 0005749034460038489200768464598******1392001000000 00042509710 2025012920250129FD58D0DD47644924B1C5BAA5A622BA04                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
 05002
 02jose                          Flavio                        Lopez                         prolongacion los soles                            200                                     vista hermosa                                     San padro garza                                                                 66278
-03WME200728TM1 20250217 000320145 003201449 000022323 006790126 000000000 000000000 000000000 003611000 003201449 0032014494460038489200768464598******6493004000000 00079855110 2024122920241229B7013A43BCBD4DC0987A4C86EF7658F4                  
-0401/01/2025COMPRA MERCADO PAGO                                                                                                  000000000 000168800
-0401/01/2025PAGO A TARJETA                                                                                                       000000000-003611000
-0401/01/2025COMPRA UBER   *EATS                                                                                              USD        000002566 000053337
-0402/01/2025COMPRA EDINBURG TRV CNTR 235                                                                                     USD        000003584 000074084
-0402/01/2025COMPRA STARBUCKS STORE 13419                                                                                     USD        000001840 000038247
-0402/01/2025COMPRA TARGET        00022376                                                                                    USD        000007066 000146875
-0402/01/2025COMPRA STR*CONSUMO SU SUPER S                                                                                        000000000 000045200
-0402/01/2025COMPRA WHATABURGER 388    Q26                                                                                    USD        000002098 000043609
-0403/01/2025COMPRA TH RICARDO MARGAIN                                                                                            000000000 000013500
-0403/01/2025COMPRA EDELMANN BARBERS CLUB                                                                                         000000000 000037000
-0403/01/2025COMPRA CLIP MX*EDELMANN BARBE                                                                                        000000000 000005000
-0404/01/2025COMPRA REST NOG FROZ SOC                                                                                             000000000 000027430
-0404/01/2025COMPRA OPENPAY*RAPPI                                                                                                 000000000 000042470
-0404/01/2025COMPRA OPLINEA*DEEP                                                                                                  000000000 000159000
-0405/01/2025COMPRA APP TELMEX 2                                                                                                  000000000 000059900
-0405/01/2025COMPRA BP*RESTNECTARJUICE                                                                                            000000000 000046500
-0405/01/2025COMPRA STR*UBER EATS                                                                                                 000000000 000045900
-0408/01/2025COMPRA STARBUCKS MAGMA TOWERS                                                                                        000000000 000021700
-0408/01/2025COMPRA STR*UBER EATS                                                                                                 000000000 000028561
-0410/01/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000054600
-0411/01/2025COMPRA OPENPAY*RAPPI                                                                                                 000000000 000060250
-0411/01/2025COMPRA OPENPAY*RAPPI                                                                                                 000000000 000058910
-0411/01/2025COMPRA OXXO GOMEZ MORIN                                                                                              000000000 000017850
-0411/01/2025COMPRA TH RICARDO MARGAIN                                                                                            000000000 000013900
-0411/01/2025COMPRA T 203 DJU PUNTO VALLE                                                                                         000000000 000889900
-0415/01/2025COMPRA SERV AGUA DREN MTY CIB                                                                                        000000000 000028000
-0416/01/2025COMPRA STARBUCKS P VALLE RES                                                                                         000000000 000014900
-0416/01/2025COMPRA ORT HEALTH AND WELLNES                                                                                        000000000 000084000
-0416/01/2025COMPRA TTO PAY*TENENCIAS                                                                                             000000000 000162900
-0416/01/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000008936
-0417/01/2025COMPRA BAIT                                                                                                          000000000 000001000
-0417/01/2025COMPRA BAIT                                                                                                          000000000 000023000
-0417/01/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000006916
-0417/01/2025COMPRA HEB VALLE ORIENTE                                                                                             000000000 000025770
-0417/01/2025COMPRA REST RYOSHI                                                                                                   000000000 000180840
-0418/01/2025COMPRA OXXOAUTOPISTA MONTERRE                                                                                        000000000 000015350
-0419/01/2025COMPRA STR*UBER EATS                                                                                                 000000000 000058205
-0420/01/2025COMPRA OPENPAY*CIRCULO DE CRE                                                                                        000000000 000008450
-0420/01/2025COMPRA FOOD BOX PLAZA TANARAH                                                                                        000000000 000056040
-0423/01/2025COMPRA OXXO MONTES ROVALLOSOS                                                                                        000000000 000010800
-0424/01/2025COMPRA PAYPAL*WATERPEOPLE WA                                                                                         000000000 000089800
-0424/01/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000038300
-0424/01/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000006997
-0425/01/2025COMPRA STARBUCKS P F SAN AGUS                                                                                        000000000 000015100
-0425/01/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000035417
-0426/01/2025COMPRA MERCADO PAGO                                                                                                  000000000 000081000
-0426/01/2025COMPRA OMMANI                                                                                                        000000000 000109200
-0426/01/2025COMPRA OPENPAY*RAPPI                                                                                                 000000000 000030670
-0429/12/2024COMPRA KOKEE TEA                                                                                                 USD        000001863 000037569
-0429/12/2024COMPRA TH MIGUEL DE LA MADRID                                                                                        000000000 000010600
-0429/12/2024COMPRA TST*AUSTINS                                                                                               USD        000003078 000062386
-0429/12/2024COMPRA K1 SPEED AUSTIN                                                                                           USD        000006567 000133102
-0429/12/2024COMPRA PAPPADEAUX SEAFOOD KIT                                                                                    USD        000027253 000549575
-0429/12/2024COMPRA CIRCLE K #2740418                                                                                         USD        000001477 000029770
-0429/12/2024COMPRA TARGET        00024380                                                                                    USD        000000460 000009276
-0429/12/2024COMPRA TELCEL 018001200006                                                                                           000000000 000009899
-0429/12/2024COMPRA BEST BUY                                                                                                      000000000 000403121
-0429/12/2024COMPRA CHICK-FIL-A #01837                                                                                        USD        000001643 000033116
-0429/12/2024COMPRA H-E-B #754                                                                                                USD        000039341 000797376
-0429/12/2024COMPRA TST*MANANA DOS                                                                                            USD        000003019 000061190
-0429/12/2024COMPRA OUTBACK 4429                                                                                              USD        000018179 000366592
-0429/12/2024COMPRA WHATABURGER 705    Q26                                                                                    USD        000001297 000026155
-0429/12/2024COMPRA UBER   *EATS                                                                                              USD        000008060 000163363
-0429/12/2024COMPRA H-E-B GAS/CARWASH #094                                                                                    USD        000002586 000052148
-0430/12/2024COMPRA UBER   *LIME                                                                                              USD        000000810 000016417
-0430/12/2024COMPRA TST* JO'S COFFEE- DOWNT                                                                                   USD        000003410 000069115
-0431/12/2024COMPRA PRESSED JUICERY - THE D                                                                                   USD        000001473 000030212
-0431/12/2024COMPRA H-E-B #754                                                                                                USD        000025524 000530547
-0431/12/2024COMPRA TST* LORO - DOMAIN                                                                                        USD        000006087 000124846
-0431/12/2024COMPRA STARBUCKS STORE 20588                                                                                     USD        000001445 000029637
-05070
+03WME200728TM1 20250320 000078713 000787130 003201449 004697907 000000000 000000000 000000000 007112226 000787130 0007871304460038489200768464598******6493004000000 00321287010 2025012920250129B7013A43BCBD4DC0987A4C86EF7658F4                  
+0401/02/2025COMPRA TH RICARDO MARGAIN                                                                                            000000000 000012800
+0403/02/2025COMPRA LULU LEMON                                                                                                    000000000 000509001
+0403/02/2025COMPRA STARBUCKS P VALLE RES                                                                                         000000000 000017800
+0405/02/2025COMPRA EDELMANN BARBERS CLUB                                                                                         000000000 000037000
+0405/02/2025COMPRA CLIP MX*EDELMANN BC                                                                                           000000000 000005000
+0405/02/2025COMPRA APP TELMEX 2                                                                                                  000000000 000059900
+0405/02/2025COMPRA THE FOOD BOX TANARAH                                                                                          000000000 000057840
+0406/02/2025COMPRA STR*UBER EATS                                                                                                 000000000 000084200
+0407/02/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000014420
+0407/02/2025COMPRA ZTL*BEYONDSUGAR                                                                                               000000000 000016700
+0407/02/2025COMPRA STARBUCKS A MTY TA SUE                                                                                        000000000 000030700
+0407/02/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000057000
+0407/02/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000076239
+0407/02/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000017226
+0408/02/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000010676
+0408/02/2025COMPRA ENTRET HYROX                                                                                                  000000000 000424600
+0408/02/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000082155
+0408/02/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000015765
+0408/02/2025COMPRA STR*UBER EATS                                                                                                 000000000 000038040
+0408/02/2025COMPRA STR*UBER EATS                                                                                                 000000000 000062029
+0409/02/2025COMPRA POINTMP*TORISTACOS                                                                                            000000000 000038400
+0409/02/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000011305
+0409/02/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000006058
+0409/02/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000029677
+0409/02/2025COMPRA REST CUERNO ANDARES                                                                                           000000000 000330000
+0409/02/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000064250
+0409/02/2025COMPRA LA FRAGATA                                                                                                    000000000 000031800
+0410/02/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000042528
+0410/02/2025COMPRA STARBUCKS APTO GUAD                                                                                           000000000 000023400
+0410/02/2025COMPRA ACO GDL FF CARLS JR                                                                                           000000000 000034300
+0410/02/2025COMPRA IPARK MTY INTERRED                                                                                            000000000 000116000
+0411/02/2025COMPRA STR*UBER EATS                                                                                                 000000000 000108097
+0414/02/2025COMPRA STR*UBER EATS                                                                                                 000000000 000043200
+0415/02/2025COMPRA STR*UBER EATS                                                                                                 000000000 000050900
+0415/02/2025COMPRA MERCADO PAGO                                                                                                  000000000 000319920
+0415/02/2025COMPRA CAFE LAUREL                                                                                                   000000000 000057155
+0415/02/2025COMPRA PARQUE ARBOLEDA                                                                                               000000000 000005000
+0416/02/2025COMPRA BAIT                                                                                                          000000000 000023000
+0416/02/2025COMPRA OXXO RIO BLANCO MTY                                                                                           000000000 000016500
+0417/02/2025COMPRA BENAVIDES 140849 M HIM                                                                                        000000000 000017600
+0417/02/2025PAGO A TARJETA                                                                                                       000000000-003544500
+0420/02/2025COMPRA F AHORRO MTAI R MARGAI                                                                                        000000000 000023600
+0420/02/2025COMPRA STRIPE *UBER TRIP                                                                                             000000000 000016994
+0421/02/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000099967
+0422/02/2025COMPRA BINANCE.COM                                                                                                   000000000 000500000
+0423/02/2025COMPRA REST CABANNA MET                                                                                              000000000 000109000
+0423/02/2025COMPRA TH RICARDO MARGAIN                                                                                            000000000 000012800
+0426/02/2025COMPRA REST FOOD BOX PLAZA TA                                                                                        000000000 000042800
+0427/02/2025COMPRA STR*UBER EATS                                                                                                 000000000 000021900
+0429/01/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000095000
+0429/01/2025COMPRA STR*UBER EATS                                                                                                 000000000 000014650
+0430/01/2025COMPRA STR*EMPOWERMIND                                                                                               000000000 000160000
+0431/01/2025COMPRA STRIPE *UBER EATS                                                                                             000000000 000053500
+0431/01/2025PAGO A TARJETA                                                                                                       000000000-003567726
+0431/01/2025COMPRA HEB VALLE ORIENTE                                                                                             000000000 000504305
+0431/01/2025COMPRA MAS SALSA II                                                                                                  000000000 000045210
+05056
 02MAURICIO HECTOR               Pozos                                                       Nogal                                             2873                                    bosques del contry                                Guadalupe                                                                       66278
-03WME200728TM1 20250217 000098342 000983420 000859381 000000000 000066930 000066930 000021418 000000000 000983420 0009834204460038489200768464598******8739002000000 00101658010 20241229202412296D9429B0A14A4F74B09EF00362C8811D                  
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+03WME200728TM1 20250320 000111851 001118510 000983420 000000000 000076457 000076457 000024466 000000000 001118510 0011185104460038489200768464598******8739002000000 00088149010 20250129202501296D9429B0A14A4F74B09EF00362C8811D                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
 05002
 02FRANCISCO MANUEL              ALVAREZ                       MIRAVALLES                    ALBERTO GARCIA GUZMAN                             1061                                    HUASTECA LIVING                                   SANTA CATARINA                                                                  66354
-03WME200728TM1 20250217 000687963 006879626 006543532 000653792 000000000 000246467 000039435 000650000 006879626 0068796264460038489200768464598******0471007000000 00012037410 2024122920241229B4CFC59C0F4D458892A1627FF3F94C9F                  
-0402/01/2025COMPRA IT'SUGAR LA PLAZA                                                                                         USD        000003025 000062592
-0405/01/2025COMPRA BENAVIDES 140476 B PTE                                                                                        000000000 000094000
-0405/01/2025COMPRA HEB LA PUERTA                                                                                                 000000000 000048300
-0415/01/2025PAGO A TARJETA                                                                                                       000000000-000250000
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-0417/01/2025COMPRA STARBUCKS COFFE PZA NOR                                                                                              001410000 000028961
-0419/01/2025COMPRA INVERSIONES CONECTA CHI                                                                                              014600000 000300339
-0429/12/2024COMPRA HEB SANTA CATARINA I                                                                                          000000000 000119600
-0431/12/2024PAGO A TARJETA                                                                                                       000000000-000400000
-05010
+03WME200728TM1 20250320 000981531 009815305 006879626 002567733 000000000 000277195 000044351 000000000 009815305 0098153054460038489200768464598******0471010000000 00018469510 2025012920250129B4CFC59C0F4D458892A1627FF3F94C9F                  
+0407/02/2025COMPRA 960 DISTRITO DOMO                                                                                             000000000 000022900
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0421/02/2025COMPRA COPA AIRLINES WP                                                                                              000000000 001593900
+0423/02/2025COMPRA HEB SANTA CATARINA I                                                                                          000000000 000250000
+0426/02/2025COMPRA COPA AIRLINES WP                                                                                              000000000 000162300
+0427/02/2025RETIRO EN ATM                                                                                                        000000000 000503584
+0427/02/2025IVA DE COMISIÓN                                                                                                      000000000 000004834
+0427/02/2025COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000030215
+05009
 02christian jacobo              hasbun                        rivera                        alpinistas                                        2050                                    las cabanas                                       saltillo                                                                        25200
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******3716003000000 0030000000  2024122920241229F58441B49FF24C6F88405A9E9E9B610A                  
-05000
+03WME200728TM1 20250320 000037500 000076921 000000000 000030521 000040000 000000000 000006400 000000000 000076921 0000769214460038489200768464598******3716003000000 0029230793  2025012920250129F58441B49FF24C6F88405A9E9E9B610A                  
+0406/02/2025COMPRA CVS/PHARMACY #05938                                                                                       USD        000001479 000030521
+0407/02/2025Comision Anual Titular                                                                                               000000000 000040000
+0407/02/2025IVA Comision Anual Titular                                                                                           000000000 000006400
+05003
 02Humberto                      de la Garza                   Salazar                       Paseo del valle                                   184                                     Valle de la Sierra                                Santa catarina                                                                  66165
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460014989200297464598******9870005000000 0050000000  20250117202501174215A271909D405099E0FB98EC01D55C                  
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******9870005000000 0050000000  20250129202501294215A271909D405099E0FB98EC01D55C                  
 05000
 02ventas                        cuatro                                                      los soles                                         200                                     privanzas                                         San padro garza                                                                 66278
-03WME200728TM1 20250217 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******0742015000000 0150000000  20241229202412297F8F21701DE54B5181509A44EDC46552                  
+03WME200728TM1 20250320 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 000000000 0000000004460038489200768464598******0742015000000 0150000000  20250129202501297F8F21701DE54B5181509A44EDC46552                  
 05000
 02Raul                          Cavazos                       Morales                       Prolongacion los soles                            200                                     Sin Nombre                                        San Pedro Garza                                                                 66260
-03WME200728TM1 20250217 000207340 002073403 001860192 000000000 000143803 000143803 000046016 000000000 002073403 0020734034460038489200768464598******3736010000000 00792659710 2024122920241229259D6377710942E0909DA42DA784CD23                  
-0417/01/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
-0417/01/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
+03WME200728TM1 20250320 000230561 002305612 002073403 000000000 000160180 000160180 000051258 000000000 002305612 0023056124460038489200768464598******3736010000000 00769438810 2025012920250129259D6377710942E0909DA42DA784CD23                  
+0417/02/2025GASTOS DE COBRANZA                                                                                                   000000000 000040000
+0417/02/2025IVA DE GASTOS DE COBRANZA                                                                                            000000000 000006400
 05002
 02ANDRES                        FALCON                        ARVIZU                                                                                                                                                                    San Pedro                                                                            
-03WME200728TM1 20250217 000118589 001185893 001257826 000000000 000000000 000046437 000007430 000125800 001185893 0011858934460038489200768464598******9880002000000 00081410710 20241229202412292BF5D3D8AD47411A8CDC1A63CE0506CE                  
-0417/01/2025PAGO A TARJETA                                                                                                       000000000-000125800
+03WME200728TM1 20250320 000111689 001116886 001185893 000000000 000000000 000042753 000006840 000118600 001116886 0011168864460038489200768464598******9880002000000 00088311410 20250129202501292BF5D3D8AD47411A8CDC1A63CE0506CE                  
+0410/02/2025PAGO A TARJETA                                                                                                       000000000-000118600
 05001
+02CESIAH AIDEE                  MORENO                        GOME                          Matamoros                                         307                                     Loma Verde                                        Guadalupe Victo                                                                 34700
+03WME200728TM1 20250320 000100000 001000000 000000000 000953600 000040000 000000000 000006400 000000000 001000000 0010000004460031089200619464598******8783001000000 00000000010 2025020420250204797430E9A51F49828550F492309AA5AD                  
+0420/02/2025COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000024230
+0420/02/2025RETIRO EN ATM                                                                                                        000000000 000403828
+0420/02/2025IVA DE COMISIÓN                                                                                                      000000000 000003877
+0421/02/2025Comision Anual Titular                                                                                               000000000 000040000
+0421/02/2025IVA Comision Anual Titular                                                                                           000000000 000006400
+0423/02/2025COMPRA FARM GUAD 1326                                                                                                000000000 000030799
+0424/02/2025COMPRA REST ASSIA BUFFET                                                                                             000000000 000091500
+0424/02/2025COMPRA TELEC INGEN COMPU 778                                                                                         000000000 000010000
+0424/02/2025COMPRA GAS DIST VICT LLANOS                                                                                          000000000 000030000
+0424/02/2025COMPRA OXXO GPE VICTORIA II                                                                                          000000000 000026500
+0424/02/2025COMPRA SUPER FARMACIAS ESPERA                                                                                        000000000 000009022
+0427/02/2025COMPRA EFEVOOP*CARNES FINAS M                                                                                        000000000 000021006
+0427/02/2025IVA DE COMISIÓN                                                                                                      000000000 000002718
+0427/02/2025RETIRO EN ATM                                                                                                        000000000 000283132
+0427/02/2025COMISIÓN POR DISPOSICIÓN DE EFECTIVO                                                                                 000000000 000016988
+05015
+02SALEM INTERNACIONAL           SA DE CV                                                    prolongacion los soles                            200                                     los soles                                         San padro garza                                                                 66290
+03WME200728TM1 20250320 000000000 000000000-005727997 000000000 000000000 000000000 000000000 000000000-005727997-0057279974460038489200768464598******9993200000000 2057279970  2025012920250129D36F468D30F54206AC6AB55C30B85879                  
+05000
